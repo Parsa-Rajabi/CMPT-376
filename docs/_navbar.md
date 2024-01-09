@@ -4,5 +4,5 @@
 - [Teaching Team](teaching-team)
 <!-- - [Lecture Notes](lecture-notes) -->
 <!-- - [Assignments & Labs](assignment-lab-details) -->
-- [Resources](resources)
+<!-- - [Resources](resources) -->
 - [Feedback](feedback)
