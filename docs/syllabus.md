@@ -72,7 +72,7 @@ All course elements (including but not limited to) assignments, online and in-cl
 
 - You may not send the instructor or the TAs draft assignments/project/labs for feedback or review.
 - Assignments/labs/projects may be shared/shown in class and online (with no student name/ID)
-- Deferrals or extensions will be determined on a case-by-case basis, where a legitimate reason can be determined (e.g. illness, family emergency, etc.) [FAS Academic Concession [Applied Sciences] form](https://coursys.sfu.ca/forms/apsc-fas-academic-concession/).
+- Deferrals or extensions will be determined on a case-by-case basis, where a legitimate reason can be determined (e.g. illness, family emergency, etc.) [FAS Academic Concession Applied Sciences form](https://coursys.sfu.ca/forms/apsc-fas-academic-concession/).
 
 ### Remarking Policy
 
@@ -104,7 +104,8 @@ The [S 10.05 Student Conduct Policy](https://www.sfu.ca/students/studentconduct/
 
 *Failure to comply with any of these responsibilities, either knowingly or through negligence, will also be considered an act of plagiarism and subject to the same penalties.*
 
-The [S10.01 Student Academic Integrity Policy](https://www.sfu.ca/policies/gazette/student/s10-01.html) is based on the six core values of honesty, trust, fairness, respect, responsibility, and courage. It is expected that all students abide by this policy for this and all courses at SFU. Want to learn more about Academic Integrity at SFU? Visit the [SFU Academic Integrity Tutorial](https://canvas.sfu.ca/courses/56136).
+The [S10.01 Student Academic Integrity Policy](https://www.sfu.ca/policies/gazette/student/s10-01.html) is based on the six core values of honesty, trust, fairness, respect, responsibility, and courage. It is expected that all students abide by this policy for this and all courses at SFU. 
+Want to learn more about Academic Integrity at SFU? Visit the [SFU Academic Integrity Tutorial](https://canvas.sfu.ca/courses/56136).
 
 ### Accommodations and Concessions
 
