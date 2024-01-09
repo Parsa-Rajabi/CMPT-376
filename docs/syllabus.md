@@ -4,18 +4,17 @@
 
 ## Oh hey, nice to see you here 👋🏼
 
-Below is the official SFU-mandated Course Syllabus for CMPT 276.
-Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/79650).
+Below is the official SFU-mandated Course Syllabus for CMPT 376W.
+Additional details about the course are available on the [course website](https://canvas.sfu.ca/courses/82649).
 
 **Department of Computing Science**
 
-**Fall 2023 - CMPT 276 (D300)** || **Introduction to Software Engineering (3)**
+**Spring 2024 - CMPT 376W (D200)** || **Professional Responsibility and Technical Writing (3)**
 
-Class Number: 6209
-Delivery Method: In Person
+Delivery Method: In-person and Asynchronous
 
-- **Mondays 8:30-10:20 AM - SYRE 3016 (Surrey)**
-- **Wednesdays 8:30-9:20 AM - SYRE 3016 (Surrey)**
+- **Tuesday 8:30-10:20 AM - SYRE 2016 (In-person)**
+- **Thursday - Online Activities (Asynchronous)**
 
 ---
 ## Course Instructor
@@ -28,7 +27,8 @@ Please refer to [teaching team](teaching-team.md) for how to contact the teachin
 
 ## Course Description
 
-> An overview of various techniques used for software development and software project management. Major tasks and phases in modern software development, including requirements, analysis, documentation, design, implementation, testing,and maintenance. Project management issues are also introduced. Students complete a team project using an iterative development process. Students with credit for CMPT 275 may not take this course for further credit.
+> Covers professional writing in computing science, including format conventions and technical reports. The basis for ethical decision-making and the methodology for reaching ethical decisions concerning computing matters will be studied. Students will survey and write research papers, and both individual and group work will be emphasized.
+<!-- > Prerequisite: CMPT 105W and (CMPT 275 or CMPT 276), with a minimum grade of C-. Writing. -->
 
 You will find all the important term dates in the [SFU Academic Calendar](https://www.sfu.ca/students/calendar/2023/fall.html).
 
@@ -36,31 +36,26 @@ You will find all the important term dates in the [SFU Academic Calendar](https:
 
 The topics for this course are:
 
-- Software Process: software life cycle, Agile vs traditional development methods.
-- Apply agile methods: manage uncertainty and respond to change throughout the SDLC
-- High-level Design: UML, architectural, design patterns
-- Continues integration and deployment to frequently deliver working software
-- Manage change requests to ensure regular progress
-- Implementation: coding style, code review, pair programming
-- Quality assurance: unit & integration testing
-- Plan short development cycles, and operate effective teams
+- Overview of ethical theories related to ethical decision making.
+- Professional responsibility and professional codes of ethics.
+- Practical documentation approaches and writing strategies.
+- Peer-reviewing and feedback strategies.
 
-## Required Materials
+## Textbook Material
 
-Software Engineering, Ian Sommerville, Addison Wesley, 2015, 9780133943030, 10th Edition
+- Technical Writing Essentials – H5P Edition, Suzan Last, BCcampus OpenEd - [Download Link](https://opentextbc.ca/technicalwritingh5p/)
+- Ethics for the Information Age, 8th Edition, Michael J. Quinn, Pearson, 2020, 9780135217726
 
 ## Course Evaluation
 
 The grading scheme for this course is:
 
-|      **Item**      | **Weight** |
-|:------------------:|:----------:|
-|    Participation   |     6%    |
-|        Labs        |     14%    |
-|     Assignments    |     15%    |
-|       Quizzes      |     15%    |
-|       Midterm      |     20%    |
-|    Final Project   |     30%    |
+|     **Item**      | **Weight** |
+| :---------------: | :--------: |
+|    Assignments    |    30%     |
+| Weekly Activities |    10%     |
+|      Midterm      |    30%     |
+|   Final Project   |    30%     |
 
 ## Passing Criteria
 
@@ -70,17 +65,18 @@ Students must attain an overall passing grade on the weighted average of exams a
 
 ### Late Policy and Missed Items
 
-All course elements (including but limited to) assignments, quizzes, labs, midterm and project are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero, unless exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation. Refer to accommodations and concessions section below for more details.
+
+All course elements (including but not limited to) assignments, online and in-class activities, midterm and projects are required to be submitted or completed by the specified due dates. Inability to adhere to these deadlines will lead to a score of zero.  Exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation. Refer to accommodations and concessions section below for more details.
 
 ### Assignment/Project/Lab Policy
 
-- You may not send the instructor or the TAs draft assignments/project/labs for feedback – post all questions to Slack so that everyone can benefit from the answers
+- You may not send the instructor or the TAs draft assignments/project/labs for feedback or review.
 - Assignments/labs/projects may be shared/shown in class and online (with no student name/ID)
 - Deferrals or extensions will be determined on a case-by-case basis, where a legitimate reason can be determined (e.g. illness, family emergency, etc.) [FAS Academic Concession [Applied Sciences] form](https://coursys.sfu.ca/forms/apsc-fas-academic-concession/).
 
 ### Remarking Policy
 
-If you feel a course item has been significantly incorrectly assessed you may request a re-marking. However, before you do make such request, please follow the steps below:
+If you feel a course item has been incorrectly assessed you may request that the item be remarked. However, before making a remarking request, please complete the following steps:
 
 1. Review the marking rubric and ensure you understand the marking scheme.
 2. Review the marking comments and ensure you understand the feedback.
@@ -89,17 +85,24 @@ If you feel a course item has been significantly incorrectly assessed you may re
 
 #### Request a Remarking
 
-Requests must include a written case for the re-marking and be submitted to the course instructor within 2 days from receiving the mark.
+Requests must include a written case for the re-marking and be submitted to the course instructor within 5 business days from receiving the mark.
 
-The item will be re-marked in their entirety by both the course instructor and the marking TA and may result in a higher, unchanged, or lower mark overall which will be final. You should exercise caution in submitting a remark request purely on the hope of getting a minor grade bump as this often does not work out the way a student hopes for.
-
-Each student may submit one remarking request for the term.
+If accepted for remarking, the item will be re-marked in its entirety by both the course instructor and the marking TA. This may result in a higher, unchanged, or lower mark overall which will be final.
 
 ### SFU Student Code of Conduct
 
 The [S 10.05 Student Conduct Policy](https://www.sfu.ca/students/studentconduct/policy.html) defines students' basic responsibilities as academic community members, defines inappropriate student conduct, and provides procedures and outcomes to be invoked if students engage in such behaviour.
 
 ### SFU Academic Integrity
+
+- When in doubt, consult with a TA or the instructor first.
+- All work submitted must be your own.
+- Unless required to use tools as ChatGPT for specific assignments, if you choose to use them, you must:
+  - Clearly identify which parts of your work is was used for,
+  - Include the prompts used, and,
+  - Describe any changes made to the generated output.
+
+*Failure to comply with any of these responsibilities, either knowingly or through negligence, will also be considered an act of plagiarism and subject to the same penalties.*
 
 The [S10.01 Student Academic Integrity Policy](https://www.sfu.ca/policies/gazette/student/s10-01.html) is based on the six core values of honesty, trust, fairness, respect, responsibility, and courage. It is expected that all students abide by this policy for this and all courses at SFU. Want to learn more about Academic Integrity at SFU? Visit the [SFU Academic Integrity Tutorial](https://canvas.sfu.ca/courses/56136).
 

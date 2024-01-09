@@ -1,11 +1,11 @@
 - [Syllabus](syllabus)
-- [AI Policy](ai-policy)
-- [Course Schedule](schedule)
+<!-- - [AI Policy](ai-policy) -->
+<!-- - [Course Schedule](schedule) -->
 - [Teaching Team](teaching-team)
-- [Lecture Notes](lecture-notes)
-- [Assignments & Labs](assignment-lab-details)
-- [Project](project)
-- [Resources](resources)
+<!-- - [Lecture Notes](lecture-notes) -->
+<!-- - [Assignments & Labs](assignment-lab-details) -->
+<!-- - [Project](project) -->
+<!-- - [Resources](resources) -->
 - [Feedback](feedback)
 <!-- - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
