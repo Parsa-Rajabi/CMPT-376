@@ -52,8 +52,8 @@ The grading scheme for this course is:
 
 |     **Item**      | **Weight** |
 | :---------------: | :--------: |
-|    Assignments    |    30%     |
 | Weekly Activities |    10%     |
+|    Assignments    |    30%     |
 |      Midterm      |    30%     |
 |   Final Project   |    30%     |
 
