@@ -1,10 +1,9 @@
-| **Team Member**          | **Pronounced as** | **Email**                        | **Office Hour (PST)** | **Location** |
-| ------------------------ | ----------------- | -------------------------------- | --------------------- | ------------ |
-| Parsa Rajabi; Instructor | pa-r-sa           | parsa_r [at] sfu [dot] ca        | TBA                   | SYRE 5127    |
-| Maryam Rezaie; TA        | ma-r-yam          | maryam_rezaie [at] sfu [dot] ca  | TBA                   |              |
-| Shubham Bhatia; TA       | shoe-b-ham        | shubham_bhatia [at] sfu [dot] ca | TBA                   |              |
-| Prasanna Aravindan; TA   | Pra-san-na        | pva19 [at] sfu [dot] ca          | TBA                   |              |
-
+| **Team Member**          | **Pronounced as** | **Email**                        | **Office Hour (PST)** | **Location** | **Zoom details** |
+| ------------------------ | ----------------- | -------------------------------- | --------------------- | ------------ | ---------------- |
+| Parsa Rajabi; Instructor | pa-r-sa           | parsa_r [at] sfu [dot] ca        | Tuesdays 10:30-11:30  | SYRE 5127    |       -         |
+| Maryam Rezaie; TA        | ma-r-yam          | maryam_rezaie [at] sfu [dot] ca  | Thursdays 10:30-11:30 | [Zoom](https://sfu.zoom.us/j/88434714894?pwd=a3gGouP5rGcwGyEa4UbYua2BZRw0KK.1) | ID:`884 3471 4894`; Password: `376376`  |
+| Shubham Bhatia; TA       | shoe-b-ham        | shubham_bhatia [at] sfu [dot] ca | Wednesdays 12:00-1:00 |  Zoom TBA    | |
+| Prasanna Aravindan; TA   | Pra-san-na        | pva19 [at] sfu [dot] ca          | TBA                   | [Zoom](https://sfu.zoom.us/j/84017745560?pwd=gAtCzcpaDlRvEiQj9lpuC4WOuLpTdr.1) | ID:`840 1774 5560`; Password: `376376`  |
 <!-- | Shubham Bhatia; TA       | shoe-b-ham       | shubham_bhatia [at] sfu [dot] ca | Wednesdays, 12-1      | [Zoom](https://sfu.zoom.us/j/8507866599?pwd=ajJrUDVOaEJEY2hXMXdQMVhyeTg5Zz09)  | ID:`8507866599`; Password: `276276`  | --> 
 
 
