@@ -31,9 +31,10 @@ Option B:
 
 ### Changelog
 
-| **Version** |   **Date**   |          **Changes**          |
-| :---------: | :----------: | :---------------------------: |
-|    v1.0     | Jan 29, 2024 | Initial version of the policy |
+| **Version** |   **Date**   |          **Changes**           |
+| :---------: | :----------: | :----------------------------: |
+|    v1.0     | Jan 29, 2024 | Initial version of the policy  |
+|    v1.1     | Feb 5, 2024  | Updaed acknowledgement section |
 
 ## Policy on the Use of AI Content Generators for the Coursework.
 
@@ -75,4 +76,4 @@ Questions about this policy can be directed to the instructor via email with the
 
 ### Acknowledgements
 
-This policy was inspired by an AI Policy for a UBC taught by [Dongwook Yoon](https://dwyoon.com/) and refined through the feedback of students from CMPT 276 - D300 in Fall 2023 at SFU. 
+This policy was inspired by an AI Policy for a course at UBC taught by [Dongwook Yoon](https://dwyoon.com/) and refined through the feedback of students from CMPT 276 - D300 in Fall 2023 at SFU. 
