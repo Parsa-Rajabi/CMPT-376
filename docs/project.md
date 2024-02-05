@@ -107,27 +107,28 @@ In addition to the frameworks and guidelines, the department requires that you:
   - This research should aim to identify the values that are important to these universities and how they are reflected in their admissions processes. Through this process, you will synthesize your findings and identify the values that are important to the broader community. Highlight any value tensions that may exist.
 
 - Describe the algorithm design, the data that will be used and rationale for its selection.
-  - The department is keen to understand the ethical implications of the algorithm and the data that will be used. As part of this process, your team will be required to select which data you will require from the prospective students and explain why you need this data. You will also be required to disclose how or what data will playa role in student ranking and selection. While disclosing this information, you will be required to highlight the wieght of each data point and any formulas that will be used to calculate the student's ranking. Some of the data that the department has suggested that you may use include, but are not limited to:
-    -  High school transcripts with:
-        - grades on required courses
-        - grades on non-required courses
-   - Scholarship and award history
-   - Name
-   - Gender
-   - Photo
-   - Phone number
-   - Birthdate
-   - Social Insurance Number (SIN)
-   - School district
-   - School name
-   - School address
-   - Country of citizenship
-   - Country of birth
-   - English language proficiency
-   - Self-reported ancestry
-   - Disablity status
-   - Extracurricular activities
-   - Essay question responses**
+  - The department is keen to understand the ethical implications of the algorithm and the data that will be used. As part of this process, your team will be required to select which data you will require from the prospective students and explain why you need this data. You will also be required to disclose how or what data will playa role in student ranking and selection. While disclosing this information, you will be required to highlight the wieght of each data point and any formulas that will be used to calculate the student's ranking. 
+- Some of the data that the department has suggested that you may require includes:
+  - High school transcripts with:
+    - grades on required courses
+    - grades on non-required courses
+  - Scholarship and award history
+  - Name
+  - Gender
+  - Photo
+  - Phone number
+  - Birthdate
+  - Social Insurance Number (SIN)
+  - School district
+  - School name
+  - School address
+  - Country of citizenship
+  - Country of birth
+  - English language proficiency
+  - Self-reported ancestry
+  - Disablity status
+  - Extracurricular activities
+  - Essay question responses**
 
     - ** Note: *The department is also considering using an AI-detector for the essay questions. The AI-detector will be used to determine if the essay question responses are authentic and assign a score to the responses called "AI-score". As part of your proposal, you will be required to address how you will or will not use the AI-score for the algorithm design.*
    
