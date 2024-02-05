@@ -160,6 +160,20 @@ You will submit a report comprising of the following major headings:
 ## Submission
 - This is a group assignment for a team of 4 students, and only one submission per group is required. 
 - Classmates outside of your group may read your report during a Weekly Online Activity focusing on peer reviewing. 
+- Submit the report as a PDF document named:
+  - Project_Group#_M1.pdf -- example: Project_Group4_M1.pdf (the group number is the number assigned to your group in the course, under "People" in Canvas. The M1 stands for Milestone 1, which you will change to M2 for Milestone 2, and M3 for Milestone 3.)
+### Turnitin and Canvas
+- You will be submitting the same PDF report to both canvas and turnitin
+- Details to join course on [Turnitint](http://turnitin.com/)
+  - Create a new account using your SFU email (or use an existing account linked to your SFU account)
+  - Class ID is **42283711 **
+  - Enrollment key is **SunsetLand**.
+- Submit the PDF to the assignment on turnitin prior the deadlines
+  - Failure to submit assignment on both Canvas AND turnitin will result in a penalty.
+
+### Turnitin Resources
+[How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
+[How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
 
 
 ## Marking Criteria
