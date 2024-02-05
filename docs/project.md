@@ -1,134 +1,30 @@
 # Project
 
-The primary objective of this project is to develop a web application that offers practical experience with API integrations and real-world software development practices.
-
-## Overview
-
-This project, worth 30% of your course grade, tasks groups of 4 with creating a web application that integrates two APIs, leading to a total of six unique features. Dive deep into the Software Development Life Cycle (SDLC), choosing the right model for your group, and experience firsthand the ins and outs of real-world software development.
-
-## About
-
-- Plan, develop and deliver an application that has 2 different APIs integrated with a minimum of 3 features per each API (6 features total). 
-  - The APIs can be chosen from the list provided or from another source, however it is recommended to choose APIs that are free, well documented and have a large community of users.
-  - Here is a definition of a "feature":
-    > "A 'feature' refers to a distinct functionality or component of the application that offers a specific value or service to the user. It should be a self-contained unit that, on its own, delivers a portion of the overall application's functionality."
-  - When thinking about features, always prioritize the user's perspective. A valuable feature is one that enhances the user experience, fulfills a user need, or solves a particular problem for the user.
-  - Examples of features when integrating an AI API might include:
-    - Interactive tutorials or guides
-    - Voice-to-text and Text-to-voice integration
-    - Multilingual support
-    - Chatbot integration
-- Choose a Software Development Life Cycle (SDLC) model and apply the appropriate principles to your project.
-- Set up and maintain a github repository while using github elements such as branching, pull requests, github project and issues
-- Set up and maintain a CI/CD infrastructure (test, build and deploy)
-- Develop a project report and presentation based on the project
-  
-## Technical Requirements
-
-The project must be developed using a web application framework. Here are some examples of coding languages, frameworks and libraries that can be used:
-
-- HTML
-- CSS + Bootstrap/CSS Frameworks
-  - Tailwind CSS
-  - Ant Design
-  - Material UI
-  - Semantic UI
-  - Bulma
-  - Foundation
-  - Pure.css
-  - Skeleton
-  - UIKit
-- JavaScript
-  - React.js
-  - Vue.js
-  - Angular.js
-  - Node.js
-- Testing
-  - Cypress
-  - Jest
-  - Mocha
-  - Selenium
-  - Puppeteer
-  - Karma
-  - Jasmine
-  - Enzyme
-- CI/CD Pipleline
-  - Github Actions
-  - CircleCI
-  - TravisCI
-  - Jenkins
-- Hosting
-  - Netlify
-  - Vercel
-  - AWS amplify
-  - Heroku (used to be free)
-
-### Bonus
-
-There will be opportunities for groups to receive bonus throughout the project. This list will be updated as the project progresses. Note that the max grade for the project is 100%
-
-- `+5 Bonus Marks` For groups focusing their project on the AI-Education area
-  - Projects in this area include tools or platforms that use AI to enhance the teaching and learning experience for students and instructors. Projects can be focused on (but not limited to) the following:
-    - AI-based learning platforms/simulations
-    - AI-based teaching tools
-    - AI-based research tools
-    - Note: The teaching team will have the final say on whether a project is eligible for this bonus.
-
-### Planning
-
-- Create user stories
-- Develop wireframes and prototype elements for the application interface
-- Develop a work breakdown structure (WBS) of all the tasks associated with the project alongside a project schedule/timeline
-- Use Data Flow Diagrams (DFDs) to outline how data flows within the application
-  - Between the APIs and your application
-- Choose a technology stack (front-end) that this project will be based on
-- Choose 2 APIs that you wish to use as part of your project
-- Set up a communication tool i.e. Slack, discord etc.
-- Set up a github repository with a README file describing your project
-- Write tickets (Github Issues) based on the WBS and adding them to the github project
-- Develop a project report and presentation based on the project planning elements
-
-### Implementation
-
-- Integrate chosen APIs into application with features
-- Develop application interface based on wireframes/prototypes
-- Write unit and integration code tests
-- Set up and maintain a CI/CD infrastructure (test, build and deploy + accessible via a public URL)
-
-### Out of Scope
-
-- No back-end elements (ie. database) are required
-
-## Resources
-
-- Available on via [resource page](https://parsa-rajabi.github.io/cmpt-276/#/resources).
+As part of this project, you will gain practical experience in navigating ethical issues in the context of application design and development. You will also learn how to use the value-driven design toolkit to identify primary use cases, identify stakeholder groups and understand their values and value tensions. Additionally, you will learn how to apply the ACM Code of Ethics and Professional Conduct to guide the development of the system. 
 
 ## Structure
 
-This project is broken down into 2 milestones:
+This project is broken down into 3 milestones:
 
-- Milestone 1: Project Planning, October
-- Milestone 2: Project Execution, November
+- Milestone 1: Value-Driven Request for Proposal
+- Milestone 2: Product Requirements Document - Design and Development
+- Milestone 3: Project Pitch + Presentation
 
 Each milestone will include the following:
 
-- Project report
-- Project presentation
+Between the milestones 2 and 3, each team will be required to do a check-in with their assigned TA to ensure the project is on track.
 
-Between the milestones, each team will be required to do a check-in with their assigned TA to ensure the project is on track.
+## Schedule
 
-### Schedule
+| Project Element  | Due Date (11:59pm PST) |
+| :--------------: | :----------------: |
+| Groups Assigned  |  Tuesday, Jan 30   |
+|   Milestone 1    |  Friday, March 1   |
+| Project Check-in |    March 18-22     |
+|   Milestone 2    |        TBA         |
+|   Milestone 3    |        TBA         |
 
-|             Project Element              |  Due Date (11:59pm)   |
-| :--------------------------------------: | :-------------------: |
-|             Groups Assigned              |   Thursday, Oct 19    |
-| Project Report and Video Presentation #1 |     Friday, Nov 3     |
-|             Project Check-in             |       Nov 15-17       |
-|          Presentation #2 Slides          |        Nov 26         |
-|         In-class Presentation #2         | Nov 27, Nov 29, Dec 4 |
-|            Project Report #2             |         Dec 5         |
-
-### Group Project Expectations
+## Group Project Expectations
 
 This group project is intended for collaborative teamwork. Each member is expected to:
 
@@ -146,14 +42,9 @@ This group project is intended for collaborative teamwork. Each member is expect
 - **Decide Collectively**: Prioritize team decisions over individual ones.
 - **Uphold Transparency**: Be honest and clear about all matters.
 
-To ensure every group member is contributing to the project, the grading scheme is divided into 2 sections:
-
-1. Individual marks (45%)
-2. Group marks (55%)
-
 ### Group Project Participation Policy
 
-**Objective**: To ensure equitable contribution in collaborative group tasks and maintain the academic integrity of software engineering projects.
+**Objective**: To ensure equitable contribution in collaborative group tasks and to address non-participation issues effectively.
 
 #### Step 0: Peer Resolution
 
@@ -171,7 +62,7 @@ To ensure every group member is contributing to the project, the grading scheme 
 
 1. Review of specific concerns raised by peers and discussion of the evidence from Step 0.
 2. Solicitation of the student's perspective and reasons for observed non-participation.
-3. Development of a strategic action plan to rectify non-contribution.
+3. Development of an action plan to rectify non-contribution.
 4. Reinforcement of the academic importance of equitable teamwork and responsibility.
 
 - **Record Keeping**: The TA will document the proceedings of the consultation, and this record will be made available to the student and preserved for future reference.
@@ -182,173 +73,125 @@ To ensure every group member is contributing to the project, the grading scheme 
 
 ##### Procedure:
 
-1. The student will transition from the group project to an independent project. The student will be required to complete a project of comparable scope and complexity to the group project, with the same APIs and features to ensure the same core academic objectives are kept.
+1. The student will transition from the group project to an independent project. The student will be required to complete an individual project that is comparable in scope and complexity to the group project. The student is expected to complete the individual project within the same time frame as the group project.
 
 - **Notification**: The course instructor will formally communicate the transition and its reasoning to the student in written form, delineating both the rationale and the expectations for the independent project.
 
 ##### Additional Notes:
 
-- Open communication with peers and supervisory staff is crucial. Engaging in early dialogue can mitigate issues effectively.
-- In cases of extenuating circumstances, such as significant health or personal challenges, discretion in the application of this policy will rest with the course instructor.
+- Open communication with peers and teaching team is crucial. Engaging in early dialogue can mitigate issues effectively.
+- In cases of extenuating circumstances, such as significant health or personal challenges, discretion in the application of this policy will rest with the course instructor and department.
 - Guidance on effective collaboration and group dynamics will be provided at the outset of the project to establish clear participation expectations.
 
-#### Individual Marks 
+## Project Milestone 1: Value-Driven Request for Proposal
 
-After completing each report/presentation, all group members will have the opportunity to evaluate their peers. Each member will receive 3 evaluation grades from their peers and the _average_ of the 3 evaluations will be used for individual peer evaluation grades (15% x2). Each group member will be responsible to submit an evaluation for their peers during evaluations #1 and #2 - the completion of these evaluations is worth (5%).  More details on where and how to submit peer evaluation will be shared later.
+In this project milestone (M1), you will learn about value-driven design and apply the approach to develop a request for proposal. 
 
-Another key component of the individual grade includes contributions. Since this is a group project, it is expected that all members put in roughly the same amount of time and effort into the project with all tasks divided up equally. The individual contribution component will be marked based on the individual's contributions to group meetings, check-in, report, presentation and finally contribution to completing the actual application.  
- 
-### Group Marks
+## Scenario
 
-Refer to the milestones below for detailed grade breakdown for each report, presentation and application evaluation.
+The School of Computing Science at SFU, a department in a public university in BC, has historically used GPA as the only indicator for admissions into the department. With the disappearance of provincial exams, the School of CS is considering adopting an alternative system to rank promising candidates for acceptance. They are also considering the use of artificial intelligence. They issue an open request for proposals to local Canadian companies for an Admissions Management System.
 
-### Breakdown
+You are the founders of <name your group of 4>, and you aim to bid to become the developer of this project. As part of the bid, you have been tasked to provide a report that will guide the product design and outline risks. This report will be used to determine the feasibility of the project and to guide the development of the system. The report will also be used to determine the ethical implications of the system and to ensure that the system is designed in a way that is consistent with the values of the department, university and the broader community.
 
-This project accounts for 30% of every member's grade in the course. The project grading is broken down into as the following:
+## Frameworks and Guidelines
 
-|     Project Element     | Total %  | Detailed % |
-|:-----------------------:|:--------:|:----------:|
-|   `Individual Marks`    |  `45%`   |            |
-|   Peer evaluation #1    |          |     15%    |
-|   Peer evaluation #2    |          |     15%    |
-| Complete peer evalution |          |     5%     |
-| Individual contribution |          |     10%    |
-|      `Group Marks`      |  `55%`   |            |
-|        Report #1        |          |     10%    |
-|     Presentation #1     |          |     5%     |
-|        Report #2        |          |     10%    |
-|     Presentation #2     |          |     5%     |
-| Application evaluation  |          |     25%    |
-|        `Overall`        |  `100%`   |            |
+The CS department requires that you ground your proposal in following frameworks and guidelines:
+- Foresight into AI Ethics (FAIE) - [Link](https://openroboethics.org/wp-content/uploads/2021/07/ORI-Foresight-into-Artificial-Intelligence-Ethics-Launch-V1.pdf)
+  - This value-driven ethical design toolkit (Steps 1-6) should be used to identify the primary use cases, identify stakeholder groups and understand their values and value tensions. Through this porcess, you will synthesize your findings, along with the ethical risks (Step 8).
 
-##  Milestone 1 - Project Planning
+- ACM Code of Ethics and Professional Conduct - [Link](https://www.acm.org/code-of-ethics)
+  - This code of ethics should be used to guide the development of the system. The department requires that you identify at least 4 principles from the ACM Code of Ethics that are relevant to the development of the system and explain how these principles will be upheld (1 principle per group member).
 
-During the first months of project, your group will primarily work on planning the project:
+In addition to the frameworks and guidelines, the department requires that you:
+- Conduct research on at least 4 other universities in the world and their admissions processes (1 per group member). 
+  - This research should aim to identify the values that are important to these universities and how they are reflected in their admissions processes. Through this process, you will synthesize your findings and identify the values that are important to the broader community. Highlight any value tensions that may exist.
 
-### 1. Communication:
-- [ ] Set up a primary communication tool (e.g., Slack, Discord).
-- [ ] Establish communication guidelines and check-in schedules.
+- Describe the algorithm design, the data that will be used and rationale for its selection.
+  - The department is keen to understand the ethical implications of the algorithm and the data that will be used. As part of this process, your team will be required to select which data you will require from the prospective students and explain why you need this data. You will also be required to disclose how or what data will playa role in student ranking and selection. While disclosing this information, you will be required to highlight the wieght of each data point and any formulas that will be used to calculate the student's ranking. Some of the data that the department has suggested that you may use include, but are not limited to:
+    -  High school transcripts with:
+        - grades on required courses
+        - grades on non-required courses
+   - Scholarship and award history
+   - Name
+   - Gender
+   - Photo
+   - Phone number
+   - Birthdate
+   - Social Insurance Number (SIN)
+   - School district
+   - School name
+   - School address
+   - Country of citizenship
+   - Country of birth
+   - English language proficiency
+   - Self-reported ancestry
+   - Disablity status
+   - Extracurricular activities
+   - Essay question responses**
 
-### 2. Decision Making:
-- [ ] Determine at least two APIs for the project.
-- [ ] Evaluate and select the primary development frameworks or platforms.
+    - ** Note: *The department is also considering using an AI-detector for the essay questions. The AI-detector will be used to determine if the essay question responses are authentic and assign a score to the responses called "AI-score". As part of your proposal, you will be required to address how you will or will not use the AI-score for the algorithm design.*
+   
 
-### 3. Repository Management:
-- [ ] Create and connect to a GitHub repository.
-- [ ] Draft a README file detailing project objectives, tech stack, contributors, and setup instructions.
-- [ ] Ensure regular commits and proper branch management.
+## Report Description
 
-### 4. Project Planning:
+You will submit a report comprising of the following major headings:
+- Foresight into AI Ethics (FAIE):
+  - The outcomes of Steps 1-6 and Step 8 from the value-driven ethical design toolkit. 
+- ACM Code of Ethics and Professional Conduct
+  - The 4 principles from the ACM Code of Ethics that are relevant to the development of the system and an explanation of how these principles will be upheld.
+- Research on at least 4 other universities in the world and their admissions processes
+  - The values that are important to these universities and how they are reflected in their admissions processes. Highlight any value tensions that may exist.
+- Algorithm Design and Data Selection
+  - The data that will be used and rationale for its selection. 
+  - The ethical implications of the algorithm and the data that will be used. 
+  - The data that you will require from the prospective students and explain why you need this data. 
+  - How or what data will play a role in student ranking and selection. 
+  - The wieght of each data point and any formulas that will be used to calculate the student's ranking. 
+  - Address how you will or will not use the AI-score for the algorithm design.
 
-#### a. Work Breakdown:
-- [ ] Construct a Work Breakdown Structure (WBS) with all tasks.
-- [ ] Prioritize tasks based on dependencies and importance.
 
-#### b. Scheduling:
-- [ ] Design a detailed project timeline.
-- [ ] Schedule regular team meetings and update sessions.
+## Details
+- You're welcome to use this opportunity to use and become familiar with LaTeX (although we won't go over this tool in this course). SFU has a paid plan that you should be able to access via [this page](https://www.overleaf.com/edu/sfu). If you optionally choose to use LaTeX, please make sure to adhere to the guidelines below. 
+- The report should be 2000 words in length (+/- 10% => range: 1800-2200 words), 1.5-spaced, 12-point font, Times New Roman font, 1-inch (2.54 cm) margins. Include the word count at the end of the report (before the references section, if there is one) -- the element "Word Count: XXX" does not count towards your essay word count.
+- If you (optionally) use external sources such as websites, academic papers, journals etc., then cite them using [IEEE citation format](https://www.lib.sfu.ca/help/research-assistance/subject/engineering-science/citing-writing) and include a references section at the end of the report (references are not counted towards your word count)
 
-#### c. GitHub Management:
-- [ ] Initiate a GitHub project within the repository.
-- [ ] Write tickets (GitHub Issues) based on the WBS.
-- [ ] Link issues to corresponding milestones and project boards.
 
-### 5. Design Phase:
 
-#### a. Interface Design:
-- [ ] Create wireframes for all primary user interfaces.
-- [ ] Develop high-fidelity prototypes for critical application flows.
+## Submission
+- This is a group assignment for a team of 4 students, and only one submission per group is required. 
+- Classmates outside of your group may read your report during a Weekly Online Activity focusing on peer reviewing. 
 
-#### b. Architecture Design:
-- [ ] Develop a data flow diagram detailing interactions between APIs and the application.
-- [ ] Draft architectural diagrams showcasing the project's backend and frontend structures.
 
-### Report and Presentation #1 
+## Marking Criteria
+- TBA
 
-#### Report (70 marks)
+<!-- Syntax & Grammar (15%):
+• Paper is free of spelling and grammatical errors
+• Uses language that clearly and effectively conveys ideas
+• Writes with clear sentence and paragraph structure, and appears to have been revised using the techniques described in class 
 
-This document will include all the group's progress thus far:
+Coverage & Organization (15%):
+• Report covers all the required sections, organized appropriately
+• Provides a concise and engaging abstract and introduction
+• Writing shows a logical flow
 
-- `[5 marks]` Overview of the project
-- `[6 marks]` Outline which SDLC model was chosen and why  
-- `[4 marks]` 2 User stories per each API (4 total, 1 mark each)
-- `[4 marks]` Outline your technology stack and why you chose it
-- `[4 marks]` List of chosen APIs and why you chose them
-- `[8 marks]` Planned features per each API (in detail - 3 features per each API, 6 features minimum)
-- `[10 marks]` Work breakdown structure (WBS) including how the work was divided up and who has completed what element (including the actual report and presentation components)
-- `[8 marks]` Project schedule/timeline
-- `[10 marks]` Wireframes and prototype elements for the application interface
-- `[6 marks]` 2 Data flow diagrams (1 high level/overview, 1 with details) (3 marks each)
-- `[5 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanliness
+Research (20%):
+• Shows evidence of appropriate and relevant research
+• Cites all references using proper conventions 
 
-Tip: This report should be written as if the person reading it (the instructor or marker) has no prior knowledge or experience with your project. 
+Depth & Insight (50%):
+• Provides insight into the topic in various dimensions (e.g. social, individual, economic, ethical, regulatory)
+• Presents information that is coherent, organized, and connected by clear transitions
+• Concludes with a clear, concise summary of the findings -->
 
-#### Presentation (30 marks)
-Create a 5-minute video presentation intended for your classmates, TA and instructor. This will be completed by your team outside of class time to help your peers better understand your project. Your presentation should include:
 
-- `[5 marks]` Overview of the project 
-- `[5 marks]` Discuss which tech stack / APIs and SDLC model you picked and why
-- `[5 marks]` Application features (high-level overview)
-- `[5 marks]` Wireframes and prototype elements for the application interface
-- `[5 marks]` 1 high level data flow diagram 
-- `[5 marks]` All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness) and ease of understanding
-- `[-5 marks]` Penalty for going over the allocated 5 minute presenation time limit
-
-Tip: This presentation is directed towards your peers in the classroom who have no prior knowledge or experince with your project.
-
-## Milestone 2 - Project Execution
-
-During the last month of this course, you and your group will shift to executing the project and developing the application planned in the previous milestone.
-
-### Check-in
+## Check-in
 
 During this check-in, your group will have the opportunity to meet with your assigned TA and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with your TA:
 
-- CI/CD infrastructure fully implemented
-- 1 API fully implemented with 2-3 features 
-- Progress on application interface (UI)
-- at least 1 unit + 1 integration code tests 
+TBA
 
 More details on how to book a check-in will be shared later.
 
-**`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend.`**
+**`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend. This penalty will only be applied to the group members who do not attend the check-in.`**
 
-### Report and Presentation #2 
-
-#### Report (70 marks)
-This document will serve as the final project report:
-
-- `[2 marks]` Overview of the project  
-- `[7 marks]` Overview of which SDLC model was used in the project and what worked/didn't work 
-- `[3 marks]` High-level list of implemented features 
-- `[18 marks]` 3 application features per each API - 6 features in total (in detail with screenshots) (3 marks per feature)
-- `[10 marks]` Description of the tests associated with the code (unit and integration tests)
-- `[10 marks]` Description of the project's CI/CD infrastructure (test, build and deploy)
-- `[5 marks]` 1 high-level data flow diagram
-- `[10 marks]` Lessons learnt / project takeaway, project challenges, how the work was divided up and who has completed what element (including the actual report and presentation components)
-- `[5 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
-
-#### Presentation (30 marks)
-
-This 10 minute presentation (8 minutes presentation, 2 minutes Q/A) will be done in-class as an opportunity for other students in the class to become familiar with your project. This presentation should include:
-
-- `[2 marks]` Overview of the project
-- `[3 marks]` Discuss which APIs you picked and why
-- `[5 marks]` Application features (high-level overview)
-- `[5 marks]` Overview of CI/CD infrastructure
-- `[5 marks]` Project takeaways and challenges
-- `[5 marks]` Project demo video (1-2 minutes)
-- `[5 marks]` All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness), ability to answer question and ease of understanding
-- `[-3 marks]` Penalty for going over the allocated 8 minute presenation time limit
-
-#### Application Evaluation (100 marks)
-
-The application developed as part of this project will be evaluated as the following:
-
-- `[48 marks]` Implement 6 features based on 2 APIs (3 features per each API) (8 marks each)
-- `[12 marks]` Develop application interface including basic styling and framework 
-- `[8 marks]` Write 8 unit tests (1 mark each)
-- `[12 marks]` Write 1 integration test per each feature - 6 total (2 marks each)
-- `[20 marks]` Set up project with CI/CD infrastructure (including hosting - accessible via public URL).  
-  - Test, build and deploy stages
-- `[10 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
