@@ -16,13 +16,13 @@ Between the milestones 2 and 3, each team will be required to do a check-in with
 
 ## Schedule
 
-| Project Element  | Due Date (11:59pm PST) |
-| :--------------: | :----------------: |
-| Groups Assigned  |  Tuesday, Jan 30   |
-|   Milestone 1    |  Friday, March 1   |
-| Project Check-in |    March 18-22     |
-|   Milestone 2    |        TBA         |
-|   Milestone 3    |        TBA         |
+|                            Project Element                            | Due Date (11:59pm PST) |
+| :-------------------------------------------------------------------: | :--------------------: |
+|                            Groups Assigned                            |    Tuesday, Jan 30     |
+| [Milestone 1](#project-milestone-1-value-driven-request-for-proposal) |    Friday, March 1     |
+|                     [Project Check-in](#check-in)                     |      March 18-22       |
+|                              Milestone 2                              |          TBA           |
+|                              Milestone 3                              |          TBA           |
 
 ## Group Project Expectations
 
