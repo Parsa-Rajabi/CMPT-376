@@ -2,6 +2,13 @@
 
 As part of this project, you will gain practical experience in navigating ethical issues in the context of application design and development. You will also learn how to use the value-driven design toolkit to identify primary use cases, identify stakeholder groups and understand their values and value tensions. Additionally, you will learn how to apply the ACM Code of Ethics and Professional Conduct to guide the development of the system. 
 
+## Changelog
+
+| **Version** |   **Date**   |                          **Changes**                           |
+| :---------: | :----------: | :------------------------------------------------------------: |
+|    v1.0     | Feb 5, 2024  |                   Initial version of project                   |
+|    v1.1     | Feb 16, 2024 | Updated Milestone 1: [Report Description](#report-description) |
+
 ## Structure
 
 This project is broken down into 3 milestones:
@@ -131,7 +138,6 @@ In addition to the frameworks and guidelines, the department requires that you:
   - Essay question responses**
 
     - ** Note: *The department is also considering using an AI-detector for the essay questions. The AI-detector will be used to determine if the essay question responses are authentic and assign a score to the responses called "AI-score". As part of your proposal, you will be required to address how you will or will not use the AI-score for the algorithm design.*
-   
 
 ## Report Description
 
@@ -146,23 +152,30 @@ You will submit a report comprising of the following major headings:
   - The data that will be used and rationale for its selection. 
   - The ethical implications of the algorithm and the data that will be used. 
   - The data that you will require from the prospective students and explain why you need this data. 
-  - How or what data will play a role in student ranking and selection. 
+  - How or what data will play a role in student ranking and selection?
   - The wieght of each data point and any formulas that will be used to calculate the student's ranking. 
   - Address how you will or will not use the AI-score for the algorithm design.
-
+  - **_\*NEW\*_** ==Questions to consider and address while completing this section== (source: [Government of Canada, Algorithmic Impact Assessment Framework](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)):
+    - Will you have documented processes in place to test datasets against biases and other unexpected outcomes? This could include experience in applying frameworks, methods, guidelines or other assessment tools.
+    - Will you be making this information publicly available?
+    - Have you assigned accountability in your institution for the design, development, maintenance, and improvement of the system?
+    - Will the system be able to produce reasons for its decisions or recommendations when required?
+    - Will there be a mechanism to capture feedback by users of the system?
+    - Will the system enable human override of system decisions?
+    - Will there be a process in place to log the instances when overrides were performed?
+    - Will you de-identify any personal information used or created by the system at any point in the lifecycle?
 
 ## Details
 - You're welcome to use this opportunity to use and become familiar with LaTeX (although we won't go over this tool in this course). SFU has a paid plan that you should be able to access via [this page](https://www.overleaf.com/edu/sfu). If you optionally choose to use LaTeX, please make sure to adhere to the guidelines below. 
 - The report should be 2000 words in length (+/- 10% => range: 1800-2200 words), 1.5-spaced, 12-point font, Times New Roman font, 1-inch (2.54 cm) margins. Include the word count at the end of the report (before the references section, if there is one) -- the element "Word Count: XXX" does not count towards your essay word count.
 - If you (optionally) use external sources such as websites, academic papers, journals etc., then cite them using [IEEE citation format](https://www.lib.sfu.ca/help/research-assistance/subject/engineering-science/citing-writing) and include a references section at the end of the report (references are not counted towards your word count)
 
-
-
 ## Submission
 - This is a group assignment for a team of 4 students, and only one submission per group is required. 
 - Classmates outside of your group may read your report during a Weekly Online Activity focusing on peer reviewing. 
 - Submit the report as a PDF document named:
   - Project_Group#_M1.pdf -- example: Project_Group4_M1.pdf (the group number is the number assigned to your group in the course, under "People" in Canvas. The M1 stands for Milestone 1, which you will change to M2 for Milestone 2, and M3 for Milestone 3.)
+
 ### Turnitin and Canvas
 - You will be submitting the same PDF report to both canvas and turnitin
 - Details to join course on [Turnitint](http://turnitin.com/)
@@ -173,8 +186,8 @@ You will submit a report comprising of the following major headings:
   - Failure to submit assignment on both Canvas AND turnitin will result in a penalty.
 
 ### Turnitin Resources
-[How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
-[How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
+- [How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
+- [How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
 
 
 ## Marking Criteria
