@@ -29,7 +29,7 @@ Between the milestones 1 and 2, each team will be required to do a check-in with
 |                            Groups Assigned                            |    Tuesday, Jan 30     |
 | [Milestone 1](#project-milestone-1-value-driven-request-for-proposal) |    Friday, March 1     |
 |                     [Project Check-in](#check-in)                     |      March 18-22       |
-|   [Milestone 2](#project-milestone-2-product-requirements-document)   |         March          |
+|   [Milestone 2](#project-milestone-2-product-requirements-document)   |         Monday, April 8           |
 |                              Milestone 3                              |          TBA           |
 
 ## Group Project Expectations
