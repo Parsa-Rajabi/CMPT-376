@@ -8,7 +8,7 @@ As part of this project, you will gain practical experience in navigating ethica
 | :---------: | :------------: | :-----------------------------------------------------------------------------: |
 |    v1.0     |  Feb 5, 2024   |                           Initial version of project                            |
 |    v1.1     |  Feb 16, 2024  |         Updated Milestone 1: [Report Description](#report-description)          |
-|    v2.0     | March 17, 2024 | Added Milestone 2: [Report Description](#product-requirements-document-(prd)) |
+|    v2.0     | March 17, 2024 | Added Milestone 2: [Report Description](#product-requirements-document-prd) |
 
 ## Structure
 
