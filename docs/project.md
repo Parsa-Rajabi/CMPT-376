@@ -4,10 +4,11 @@ As part of this project, you will gain practical experience in navigating ethica
 
 ## Changelog
 
-| **Version** |   **Date**   |                          **Changes**                           |
-| :---------: | :----------: | :------------------------------------------------------------: |
-|    v1.0     | Feb 5, 2024  |                   Initial version of project                   |
-|    v1.1     | Feb 16, 2024 | Updated Milestone 1: [Report Description](#report-description) |
+| **Version** |    **Date**    |                                   **Changes**                                   |
+| :---------: | :------------: | :-----------------------------------------------------------------------------: |
+|    v1.0     |  Feb 5, 2024   |                           Initial version of project                            |
+|    v1.1     |  Feb 16, 2024  |         Updated Milestone 1: [Report Description](#report-description)          |
+|    v2.0     | March 17, 2024 | Added Milestone 2: [Report Description](#product-requirements-document-(prd)) |
 
 ## Structure
 
@@ -19,7 +20,7 @@ This project is broken down into 3 milestones:
 
 Each milestone will include the following:
 
-Between the milestones 2 and 3, each team will be required to do a check-in with their assigned TA to ensure the project is on track.
+Between the milestones 1 and 2, each team will be required to do a check-in with their assigned TA to ensure the project is on track.
 
 ## Schedule
 
@@ -28,7 +29,7 @@ Between the milestones 2 and 3, each team will be required to do a check-in with
 |                            Groups Assigned                            |    Tuesday, Jan 30     |
 | [Milestone 1](#project-milestone-1-value-driven-request-for-proposal) |    Friday, March 1     |
 |                     [Project Check-in](#check-in)                     |      March 18-22       |
-|                              Milestone 2                              |          TBA           |
+|   [Milestone 2](#project-milestone-2-product-requirements-document)   |         March          |
 |                              Milestone 3                              |          TBA           |
 
 ## Group Project Expectations
@@ -89,6 +90,159 @@ This group project is intended for collaborative teamwork. Each member is expect
 - Open communication with peers and teaching team is crucial. Engaging in early dialogue can mitigate issues effectively.
 - In cases of extenuating circumstances, such as significant health or personal challenges, discretion in the application of this policy will rest with the course instructor and department.
 - Guidance on effective collaboration and group dynamics will be provided at the outset of the project to establish clear participation expectations.
+
+## Project Milestone 2: Product Requirements Document
+
+In this project milestone (M2), you will build upon the Admissions Management system from M1 where you acquired knowledge of use cases, stakeholders and risks. You will now apply your learnings to develop a Product Requirement Document (PRD), which will guide the design and development of the system.
+
+## Scenario
+
+The School of Computing Science at SFU has accepted your proposal and has awarded you the contract to develop the Admissions Management System. You are now required to develop a product requirements document that will guide the design and development of the system. The document will also be used to determine the feasibility of the project and to guide the development of the system. 
+
+## Product Requirements Document (PRD)
+
+Following initial use case and stakeholder research, you are now ready to create a product requirement document (PRD) outlining the system requirements. The PRD will be used to guide the design and development of the system. While PRDs are living documents, your goal is to create the first version of this document for your stakeholder for their approval.
+
+The PRD should include the following sections:
+
+1. Cover Page
+   - Title of the document
+   - Date
+   - Name of your "company"
+   - Name of your product
+   - Name of the authors and student IDs
+2. Table of Contents including page numbers
+3. Executive Summary (typically 150-250 words)
+   - A brief summary of the document, how it is organized, and what the reader can expect to find in the document 
+   - A brief summary of the product, who it is for, and why it is being developed
+4. Introduction
+    - Background 
+    - Scope of the product (outline any features that are out of scope)
+    - Definitions, acronyms, and abbreviations (if any)
+5. Personas, Use cases and Wireflows
+    - Describe 3 personas for the system 
+    - Describe use cases for each persona
+      - You may use persona templates other than those provided in M1. For example, you can use [this as a resource](https://www.figma.com/resource-library/how-to-create-a-persona/)
+      - *Note: You may re-use content from M1. If you do, you must add the complete text of your Milestone 1 to your Appendix and refer to it in your Milestone 2.*
+    - User wireflow diagrams for the following stakeholders using tools such as Figma/Balsamiq 
+      - Prospective students
+      - Admissions committee
+      - System administrator
+    - Resources:
+      - [Balsamiq: Wireflows](https://balsamiq.com/learn/articles/wireflows/)
+6. Ranking Algorithm Diagram and Description
+   - Visualize your algorithm design using a flowchart or similar diagrams
+   - Provide a high-level description of the algorithm
+   - What to include:
+     - Data sources/input
+     - Logical flow of the algorithm (how it processes an application to make a decision)
+     - Data output
+7. Application Design
+    - System architecture diagram 
+      - Indicating overall system components and connections between modules, inclduing your algorithm and data sources
+      - Include any connections (including input/output) to external third-party systems (e.g. student information systems, databases, AI-detector services etc.)
+      - You may use [this template](https://www.figma.com/community/file/989634471195357925/architecture-diagram-example-multiplayer) or similar
+8. API Documentation
+    - Develop a REST API documentation for your Ranking Algorithm and how it interacts with with the Admissions Management System
+      - This should include what information is required to be sent to the Ranking Algorithm and what information will be returned back to the Admissions Management System
+    - Outline the API endpoints/functions and what data will be sent/received including the data parameter type (e.g. JSON, XML) Each endpoint/function should have:
+      - Descriptive name + description (plain text)
+      - Input/output parameters + description (data type, in a table format)
+      - Example request/response (code snippets)
+    - REST APIs typically include the following
+      - ```code
+        Request type: GET (pull data), POST (submit data), PULL (update data), DELETE (remove data)
+        Base Server URL: https://ranking.[your-company-name].ca
+        Endpoint: /ranking/<function>
+
+
+        [Request type] [Base server URL]/[endpoint]?
+          variable1:value1&
+          variable2:value2&
+          ...
+        ```
+    - For example, [here is Figma's documentation](https://www.figma.com/developers/api#:~:text=via%20your%20app!-,Authenticate%20users,-To%20authenticate%20any) on `Authenticate users`:
+      - To authenticate any users, ask them to visit the following URL:
+        ```code
+        GET https://www.figma.com/oauth?
+          client_id=:client_id&
+          redirect_uri=:callback&
+          scope=:scope&
+          state=:state&
+          response_type=code
+        ```
+        |  Parameter   |         Description         |
+        | :----------: | :-------------------------: |
+        |  client_id   | The client ID for your app. |
+        | redirect_uri |             ...             |
+        |    scope     |             ...             |  
+    - Resources
+      - [Postman: What is API documentation?](https://www.postman.com/api-platform/api-documentation/)
+      - [Example: Figma API documentation](https://www.figma.com/developers/api)
+      - [Example: Stripe API documentation](https://docs.stripe.com/api)
+      - [Example: Spotify API documentation](https://developer.spotify.com/documentation/web-api)
+      - [Example: Apple API documentation](https://developer.apple.com/)
+      - [Example: Google API documentation](https://developers.google.com/docs/api/reference/rest)
+      - [Example: Meta API documentation](https://developers.facebook.com/docs/)
+      - [Example: Amazon API documentation](https://developer.amazon.com/docs)
+      - [Example: Canvas API documentation](https://canvas.instructure.com/doc/api/)
+
+9. Screening AI-based Essay Responses
+    - Describe how the system will or will not use AI to screen essay responses
+      - If you are using AI, describe how it will be used and how it will be integrated into the system (e.g. as a library package, as a third-party service, as a custom-built model, etc.)
+      - If you are not using AI, describe why you are not using AI and what alternative methods you are using to achieve the same functionality (e.g. traditional algorithms, manual human processes, etc.)
+    - Regardless of whether you are using AI or not, this should be reflected in your system architecture diagram 
+10. Regulatory Requirements and Standards Compliance
+    - Since SFU is a public university in BC, Canada, you are required to adhere to Canadian regulations and standards. As part of this section, you are required to describe how your system will adhere to:
+      - [Government of Canda's PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/): Describe how your design meets at least 4 principles of this act 
+      - AI-Usage Risk (if applicable): Describe risks associated with the AI used in your design and how what efforts your team has taken to attempt to mitigate this risk.
+      - Manual human processes (if applicable): Describe risks associated with manual human processes and how what efforts your team has taken to attempt to mitigate this risk.
+11. References (if applicable) 
+12. Appendix
+    - Full screenshot of your diagrams and wireflows (if a small version is included in the main document)
+    - AI-disclosuure forms for each group member
+    - Member Contributions
+      - In a table format, use bullet-points to describe the contributions of each team member for each section of the document. 
+      - Example:
+      
+      | Section | Member 1 | Member 2                | Member 3                | Member 4                |
+      | :-------: | :--------: | :-----------------------: | :-----------------------: | :-----------------------: |
+      | 1        | [list of contributions] | [list of contributions] | [list of contributions] | [list of contributions] |
+      | 2        | [list of contributions] | [list of contributions] | [list of contributions] | [list of contributions] |
+    
+      - In a seperate table, describe the percentage of contribution for each team member for each section of the document. The last row of the table should include the total percentage of contribution for each team member.
+      - Example:
+        | Section | Member 1 | Member 2 | Member 3 | Member 4 |
+        | :-----: | :------: | :------: | :------: | :------: |
+        |   1     |   25%    |   25%    |   25%    |   25%    |
+        |   2     |   50%    |    0%    |   35%    |   15%    |
+        |   3     |   40%    |   10%    |   40%    |   10%    |
+        |  ...    |   ...    |   ...    |   ...    |   ...    |
+        |  Total  |   115%   |   35%    |   100%    |   50%   |
+      - This information is subject to an audit by the teaching team through spot-checks and/or interviews with team members. Providing false information will result in a penalty to the group's grade.
+    
+## Details
+- You're welcome to use this opportunity to use and become familiar with LaTeX (although we won't go over this tool in this course). SFU has a paid plan that you should be able to access via [this page](https://www.overleaf.com/edu/sfu). If you optionally choose to use LaTeX, please make sure to adhere to the guidelines below. 
+- The report should be 1.5-spaced, 12-point font, Times New Roman font, 1-inch (2.54 cm) margins. Include a page number at the bottom of each page (excluding the cover page). There are no specific word count/page requirements for this milestone, but the document should be comprehensive and complete. Typically, a PRD is about 10-20 pages long, but this can vary depending on the complexity of the system. Last semester, the average length of the PRD was 15-20 pages (including diagrams and wireflows).
+- If you (optionally) use external sources such as websites, academic papers, journals etc., then cite them using [IEEE citation format](https://www.lib.sfu.ca/help/research-assistance/subject/engineering-science/citing-writing) and include a references section at the end of the report (references are not counted towards your word count)
+
+## Submission
+- This is a group assignment for a team of 4 students, and only one submission per group is required. 
+- Submit the report as a PDF document named:
+  - Project_Group#_M2.pdf -- example: Project_Group4_M2.pdf 
+
+### Turnitin and Canvas
+- You will be submitting the same PDF report to both canvas and turnitin
+- Details to join course on [Turnitint](http://turnitin.com/)
+  - Create a new account using your SFU email (or use an existing account linked to your SFU account)
+  - Class ID is **42283711 **
+  - Enrollment key is **SunsetLand**.
+- Submit the PDF to the assignment on turnitin prior the deadlines
+  - Failure to submit assignment on both Canvas AND turnitin will result in a penalty.
+
+### Turnitin Resources
+- [How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
+- [How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
 
 ## Project Milestone 1: Value-Driven Request for Proposal
 
@@ -190,9 +344,6 @@ You will submit a report comprising of the following major headings:
 - [How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
 
 
-## Marking Criteria
-- TBA
-
 <!-- Syntax & Grammar (15%):
 • Paper is free of spelling and grammatical errors
 • Uses language that clearly and effectively conveys ideas
@@ -217,9 +368,7 @@ Depth & Insight (50%):
 
 During this check-in, your group will have the opportunity to meet with your assigned TA and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with your TA:
 
-TBA
-
-More details on how to book a check-in will be shared later.
+(Canvas assignment)[https://canvas.sfu.ca/courses/82649/assignments/963218]
 
 **`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend. This penalty will only be applied to the group members who do not attend the check-in.`**
 
