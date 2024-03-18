@@ -199,6 +199,8 @@ The PRD should include the following sections:
       - Manual human processes (if applicable): Describe risks associated with manual human processes and how what efforts your team has taken to attempt to mitigate this risk.
 11. References (if applicable) 
 12. Appendix
+    - Changelog (if applicable)
+      - In case you're changing any part of your product based on TA feedback from M1. Change log should include the version number, date of change, and a brief description of the change.
     - Full screenshot of your diagrams and wireflows (if a small version is included in the main document)
     - AI-disclosuure forms for each group member
     - Member Contributions
@@ -210,7 +212,7 @@ The PRD should include the following sections:
       | 1        | [list of contributions] | [list of contributions] | [list of contributions] | [list of contributions] |
       | 2        | [list of contributions] | [list of contributions] | [list of contributions] | [list of contributions] |
     
-      - In a seperate table, describe the percentage of contribution for each team member for each section of the document. The last row of the table should include the total percentage of contribution for each team member.
+      - In a seperate table, describe the percentage of contribution for each team member for each section of the document. Each row should sum up to 100%. The last row of the table should include the total percentage of contribution for each team member.
       - Example:
         | Section | Member 1 | Member 2 | Member 3 | Member 4 |
         | :-----: | :------: | :------: | :------: | :------: |
