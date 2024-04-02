@@ -30,66 +30,9 @@ Between the milestones 1 and 2, each team will be required to do a check-in with
 | [Milestone 1](#project-milestone-1-value-driven-request-for-proposal) |    Friday, March 1     |
 |                     [Project Check-in](#check-in)                     |      March 18-22       |
 |   [Milestone 2](#project-milestone-2-product-requirements-document)   |         Monday, April 8           |
-|                              Milestone 3                              |          TBA           |
+|                              Milestone 3                              |          April ?, 2024           |
 
-## Group Project Expectations
 
-This group project is intended for collaborative teamwork. Each member is expected to:
-
-- **Communicate Regularly**: Stay in touch with fellow members.
-- **Attend Meetings**: Ensure presence and attention at all group gatherings.
-- **Maintain Professionalism**: Always be respectful and courteous to others.
-- **Deliver Quality Work**: Complete tasks on time and to the best capability.
-- **Seek and Offer Assistance**: Aid team members and ask for help when needed.
-- **Foster Inclusivity**: Create an environment where everyone can voice their opinions.
-- **Be Receptive**: Welcome feedback, constructive criticism, and be adaptable.
-- **Promote Equal Contribution**: Ensure everyone participates equally in the project.
-- **Stay Accountable**: Own up to one's actions and tasks.
-- **Engage Actively**: Participate fully in all discussions and activities.
-- **Update Regularly**: Inform the team about progress and challenges.
-- **Decide Collectively**: Prioritize team decisions over individual ones.
-- **Uphold Transparency**: Be honest and clear about all matters.
-
-### Group Project Participation Policy
-
-**Objective**: To ensure equitable contribution in collaborative group tasks and to address non-participation issues effectively.
-
-#### Step 0: Peer Resolution
-
-- **Criteria for Engagement**: Before official intervention, group members are encouraged to address and resolve any perceived non-participation issues internally within the group.
-  
-- **Evidence Requirement**: If proceeding to the next step, written evidence of attempts to resolve the conflict (such as meeting notes, email correspondence, or other relevant communication) will be required. This evidence serves to demonstrate that the group has made genuine attempts to address the issue before seeking official intervention.
-
-#### Strike 1: Non-participation Initial Consultation
-
-- **Criteria for Identification**: A student may be identified for non-participation if, after attempts at peer resolution, a majority of the group members, supported by the observations of the assigned TA, express continued concerns about the student's contribution levels.
-
-- **Procedure**: The identified student will be required to attend a consultation with the assigned TA and the course instructor.
-
-##### Consultation Outline:
-
-1. Review of specific concerns raised by peers and discussion of the evidence from Step 0.
-2. Solicitation of the student's perspective and reasons for observed non-participation.
-3. Development of an action plan to rectify non-contribution.
-4. Reinforcement of the academic importance of equitable teamwork and responsibility.
-
-- **Record Keeping**: The TA will document the proceedings of the consultation, and this record will be made available to the student and preserved for future reference.
-
-#### Strike 2: Non-participation Individual Project Transition
-
-- **Criteria for Identification**: If, subsequent to the initial consultation, the student is again identified by a majority of their peers (with TA observations in consideration) for inadequate contribution, they will receive a second notification.
-
-##### Procedure:
-
-1. The student will transition from the group project to an independent project. The student will be required to complete an individual project that is comparable in scope and complexity to the group project. The student is expected to complete the individual project within the same time frame as the group project.
-
-- **Notification**: The course instructor will formally communicate the transition and its reasoning to the student in written form, delineating both the rationale and the expectations for the independent project.
-
-##### Additional Notes:
-
-- Open communication with peers and teaching team is crucial. Engaging in early dialogue can mitigate issues effectively.
-- In cases of extenuating circumstances, such as significant health or personal challenges, discretion in the application of this policy will rest with the course instructor and department.
-- Guidance on effective collaboration and group dynamics will be provided at the outset of the project to establish clear participation expectations.
 
 ## Project Milestone 2: Product Requirements Document
 
@@ -249,6 +192,15 @@ The PRD should include the following sections:
 - [How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
 - [How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
 
+## Project Check-in
+
+During this check-in, your group will have the opportunity to meet with your assigned TA and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with your TA:
+
+(Canvas assignment)[https://canvas.sfu.ca/courses/82649/assignments/963218]
+
+**`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend. This penalty will only be applied to the group members who do not attend the check-in.`**
+
+
 ## Project Milestone 1: Value-Driven Request for Proposal
 
 In this project milestone (M1), you will learn about value-driven design and apply the approach to develop a request for proposal. 
@@ -369,11 +321,61 @@ Depth & Insight (50%):
 • Concludes with a clear, concise summary of the findings -->
 
 
-## Check-in
+## Group Project Expectations
 
-During this check-in, your group will have the opportunity to meet with your assigned TA and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with your TA:
+This group project is intended for collaborative teamwork. Each member is expected to:
 
-(Canvas assignment)[https://canvas.sfu.ca/courses/82649/assignments/963218]
+- **Communicate Regularly**: Stay in touch with fellow members.
+- **Attend Meetings**: Ensure presence and attention at all group gatherings.
+- **Maintain Professionalism**: Always be respectful and courteous to others.
+- **Deliver Quality Work**: Complete tasks on time and to the best capability.
+- **Seek and Offer Assistance**: Aid team members and ask for help when needed.
+- **Foster Inclusivity**: Create an environment where everyone can voice their opinions.
+- **Be Receptive**: Welcome feedback, constructive criticism, and be adaptable.
+- **Promote Equal Contribution**: Ensure everyone participates equally in the project.
+- **Stay Accountable**: Own up to one's actions and tasks.
+- **Engage Actively**: Participate fully in all discussions and activities.
+- **Update Regularly**: Inform the team about progress and challenges.
+- **Decide Collectively**: Prioritize team decisions over individual ones.
+- **Uphold Transparency**: Be honest and clear about all matters.
 
-**`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend. This penalty will only be applied to the group members who do not attend the check-in.`**
+### Group Project Participation Policy
 
+**Objective**: To ensure equitable contribution in collaborative group tasks and to address non-participation issues effectively.
+
+#### Step 0: Peer Resolution
+
+- **Criteria for Engagement**: Before official intervention, group members are encouraged to address and resolve any perceived non-participation issues internally within the group.
+  
+- **Evidence Requirement**: If proceeding to the next step, written evidence of attempts to resolve the conflict (such as meeting notes, email correspondence, or other relevant communication) will be required. This evidence serves to demonstrate that the group has made genuine attempts to address the issue before seeking official intervention.
+
+#### Strike 1: Non-participation Initial Consultation
+
+- **Criteria for Identification**: A student may be identified for non-participation if, after attempts at peer resolution, a majority of the group members, supported by the observations of the assigned TA, express continued concerns about the student's contribution levels.
+
+- **Procedure**: The identified student will be required to attend a consultation with the assigned TA and the course instructor.
+
+##### Consultation Outline:
+
+1. Review of specific concerns raised by peers and discussion of the evidence from Step 0.
+2. Solicitation of the student's perspective and reasons for observed non-participation.
+3. Development of an action plan to rectify non-contribution.
+4. Reinforcement of the academic importance of equitable teamwork and responsibility.
+
+- **Record Keeping**: The TA will document the proceedings of the consultation, and this record will be made available to the student and preserved for future reference.
+
+#### Strike 2: Non-participation Individual Project Transition
+
+- **Criteria for Identification**: If, subsequent to the initial consultation, the student is again identified by a majority of their peers (with TA observations in consideration) for inadequate contribution, they will receive a second notification.
+
+##### Procedure:
+
+1. The student will transition from the group project to an independent project. The student will be required to complete an individual project that is comparable in scope and complexity to the group project. The student is expected to complete the individual project within the same time frame as the group project.
+
+- **Notification**: The course instructor will formally communicate the transition and its reasoning to the student in written form, delineating both the rationale and the expectations for the independent project.
+
+##### Additional Notes:
+
+- Open communication with peers and teaching team is crucial. Engaging in early dialogue can mitigate issues effectively.
+- In cases of extenuating circumstances, such as significant health or personal challenges, discretion in the application of this policy will rest with the course instructor and department.
+- Guidance on effective collaboration and group dynamics will be provided at the outset of the project to establish clear participation expectations.
