@@ -43,7 +43,7 @@ The School of Computing Science at SFU will be reviewing your Product Requiremen
 
 ## Presentation Description
 
-The presentation should include the following elements:
+The video presentation should include the following elements:
 - Introduction
   - Briefly introduce the team and the scope of the project
   - Provide an overview of the presentation and what the audience can expect
@@ -53,7 +53,8 @@ The presentation should include the following elements:
 - How your design meets the needs of the stakeholders 
 
 ## Details
-- The presentation must be __ minutes long and will be done as a group
+- The presentation will submitted as pre-recorded video 
+- The video presentation must be 5 minutes long and will be done as a group
 - The presentation should be engaging and informative 
 - Support your presentation with visual easy-to-read slides for each section 
   - You're encouraged to be creative with your slides, but ensure they are professional and easy to read
