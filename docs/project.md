@@ -150,17 +150,17 @@ The PRD should include the following sections:
       - Input/output parameters + description (data type, in a table format)
       - Example request/response (code snippets)
     - REST APIs typically include the following
+      
       ```code
         Request type: GET (pull data), POST (submit data), PULL (update data), DELETE (remove data)
         Base Server URL: https://ranking.[your-company-name].ca
         Endpoint: /ranking/<function>
-
-
         [Request type] [Base server URL]/[endpoint]?
           variable1:value1&
           variable2:value2&
           ...
       ```
+    
     - For example, [here is Figma's documentation](https://www.figma.com/developers/api#:~:text=via%20your%20app!-,Authenticate%20users,-To%20authenticate%20any) on `Authenticate users`:
       - To authenticate any users, ask them to visit the following URL:
 
