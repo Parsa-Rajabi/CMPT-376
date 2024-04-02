@@ -9,6 +9,7 @@ As part of this project, you will gain practical experience in navigating ethica
 |    v1.0     |  Feb 5, 2024   |                           Initial version of project                            |
 |    v1.1     |  Feb 16, 2024  |         Updated Milestone 1: [Report Description](#report-description)          |
 |    v2.0     | March 17, 2024 | Added Milestone 2: [Report Description](#product-requirements-document-prd) |
+|    v3.0     | March 31, 2024 | Added Milestone 3: [Presentation Description](#presentation-description) |
 
 ## Structure
 
@@ -30,8 +31,49 @@ Between the milestones 1 and 2, each team will be required to do a check-in with
 | [Milestone 1](#project-milestone-1-value-driven-request-for-proposal) |    Friday, March 1     |
 |                     [Project Check-in](#check-in)                     |      March 18-22       |
 |   [Milestone 2](#project-milestone-2-product-requirements-document)   |         Monday, April 8           |
-|                              Milestone 3                              |          April ?, 2024           |
+|                              [Milestone 3](#presentation-description)                              |          April           |
 
+## Project Milestone 3: Presentation
+
+In this project milestone (M3), you will present your Admissions Management System to stakeholders of the School of Computing Science at SFU. This presentation will be used to showcase the system design and development to the stakeholders.
+
+## Scenario
+
+The School of Computing Science at SFU will be reviewing your Product Requirements Document (PRD) and make an approval decisions for the development of the Admissions Management System. You are now required to present the system design and development to the stakeholders. The presentation will be used to showcase the system design and development and to demonstrate how the system will meet the requirements outlined in the PRD.
+
+## Presentation Description
+
+The presentation should include the following elements:
+- Introduction
+  - Briefly introduce the team and the scope of the project
+  - Provide an overview of the presentation and what the audience can expect
+- Ranking Algorithm  
+  - Describe the algorithm design 
+  - Walk-through the logical flow of the algorithm
+- How your design meets the needs of the stakeholders 
+
+## Details
+- The presentation must be __ minutes long and will be done as a group
+- The presentation should be engaging and informative 
+- Support your presentation with visual easy-to-read slides for each section 
+  - You're encouraged to be creative with your slides, but ensure they are professional and easy to read
+- Each team member should have at least a 30 second speaking role in the presentation
+- Make sure to practice your presentation multiple times before the actual presentation
+  - Ensure transitions between speakers are smooth and that the presentation flows well
+
+## Submission
+- This is a group assignment for a team of 4 students, and only one submission per group is required.
+- Submit the presentation slides as a PDF document named:
+  - Project_Group#_M3.pdf -- example: Project_Group4_M3.pdf
+
+### Turnitin and Canvas
+- You will be submitting your presentation slides to both canvas and turnitin
+- Details to join course on [Turnitint](http://turnitin.com/)
+  - Create a new account using your SFU email (or use an existing account linked to your SFU account)
+  - Class ID is **42283711 **
+  - Enrollment key is **SunsetLand**.
+- Submit the PDF to assignment on turnitin prior the deadlines
+  - Failure to submit slides on both Canvas AND turnitin will result in a penalty.
 
 
 ## Project Milestone 2: Product Requirements Document
