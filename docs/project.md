@@ -150,7 +150,7 @@ The PRD should include the following sections:
       - Input/output parameters + description (data type, in a table format)
       - Example request/response (code snippets)
     - REST APIs typically include the following
-      - ```code
+      ```code
         Request type: GET (pull data), POST (submit data), PULL (update data), DELETE (remove data)
         Base Server URL: https://ranking.[your-company-name].ca
         Endpoint: /ranking/<function>
@@ -160,9 +160,10 @@ The PRD should include the following sections:
           variable1:value1&
           variable2:value2&
           ...
-        ```
+      ```
     - For example, [here is Figma's documentation](https://www.figma.com/developers/api#:~:text=via%20your%20app!-,Authenticate%20users,-To%20authenticate%20any) on `Authenticate users`:
       - To authenticate any users, ask them to visit the following URL:
+
         ```code
         GET https://www.figma.com/oauth?
           client_id=:client_id&
@@ -171,11 +172,13 @@ The PRD should include the following sections:
           state=:state&
           response_type=code
         ```
+
         |  Parameter   |         Description         |
         | :----------: | :-------------------------: |
         |  client_id   | The client ID for your app. |
         | redirect_uri |             ...             |
         |    scope     |             ...             |  
+    
     - Resources
       - [Postman: What is API documentation?](https://www.postman.com/api-platform/api-documentation/)
       - [Example: Figma API documentation](https://www.figma.com/developers/api)
