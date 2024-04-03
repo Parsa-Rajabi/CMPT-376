@@ -4,12 +4,13 @@ As part of this project, you will gain practical experience in navigating ethica
 
 ## Changelog
 
-| **Version** |    **Date**    |                                   **Changes**                                   |
-| :---------: | :------------: | :-----------------------------------------------------------------------------: |
-|    v1.0     |  Feb 5, 2024   |                           Initial version of project                            |
-|    v1.1     |  Feb 16, 2024  |         Updated Milestone 1: [Report Description](#report-description)          |
+| **Version** |    **Date**    |                                 **Changes**                                 |
+| :---------: | :------------: | :-------------------------------------------------------------------------: |
+|    v1.0     |  Feb 5, 2024   |                         Initial version of project                          |
+|    v1.1     |  Feb 16, 2024  |       Updated Milestone 1: [Report Description](#report-description)        |
 |    v2.0     | March 17, 2024 | Added Milestone 2: [Report Description](#product-requirements-document-prd) |
-|    v3.0     | March 31, 2024 | Added Milestone 3: [Presentation Description](#presentation-description) |
+|    v3.0     | March 31, 2024 |  Added Milestone 3: [Presentation Description](#presentation-description)   |
+|    v3.1     | Apri1 3, 2024  |                         Updated Milestone 3 Details                         |
 
 ## Structure
 
@@ -31,7 +32,7 @@ Between the milestones 1 and 2, each team will be required to do a check-in with
 | [Milestone 1](#project-milestone-1-value-driven-request-for-proposal) |    Friday, March 1     |
 |                     [Project Check-in](#check-in)                     |      March 18-22       |
 |   [Milestone 2](#project-milestone-2-product-requirements-document)   |         Monday, April 8           |
-|                              [Milestone 3](#presentation-description)                              |          April           |
+|                              [Milestone 3](#presentation-description)                              |          Friday, April 12          |
 
 ## Project Milestone 3: Presentation
 
@@ -53,8 +54,11 @@ The video presentation should include the following elements:
 - How your design meets the needs of the stakeholders 
 
 ## Details
-- The presentation will submitted as pre-recorded video 
-- The video presentation must be 5 minutes long and will be done as a group
+- The presentation will submitted as pre-recorded video with subtitles
+  - The use of AI tools to generate subtitles must be reported in the AI-disclosure form.
+  - You are responsible for accuracy of your subtitles, regardless if you use AI or not.
+- The video should be 5 minutes in length (max), no minimum length
+  - A 10% penalty will applied to videos over 5 minutes
 - The presentation should be engaging and informative 
 - Support your presentation with visual easy-to-read slides for each section 
   - You're encouraged to be creative with your slides, but ensure they are professional and easy to read
@@ -62,8 +66,21 @@ The video presentation should include the following elements:
 - Make sure to practice your presentation multiple times before the actual presentation
   - Ensure transitions between speakers are smooth and that the presentation flows well
 
+## AI-Disclosure 
+- AI-usage for this submission is permissible, however all prompts and details must be disclosed and submitted as per course AI-policy.
+  - Everyone will have to disclose this regardless if they use AI or not.
+  - [Link to AI-usage Disclosure form](https://forms.office.com/r/cJrQSdh1BB)
+  - Failure to submit this form will be considered a violation of AI course policy and a 25% penalty will be applied to your grade.
+- If you're planning to use AI, I recommend keeping track of all your prompts and results in a separate (google, word, etc.) document for ease when you're submitting the form. 
+
 ## Submission
 - This is a group assignment for a team of 4 students, and only one submission per group is required.
+- A link to the video presentation should be included on the first slide of the presentation
+  - Should you choose to so, you can upload it to YouTube and set the [visibility to unlisted or public](https://support.google.com/youtube/answer/157177)
+  - If you choose not to use YouTube, then you can upload your video to your personal google drive and/or your [SFU oneDrive](https://sfu.teamdynamix.com/TDClient/255/ITServices/KB/ArticleDet?ID=3820#sign_in)
+  - Regardless of which option you choose, you must verify that your link works. You can do so by accessing the link in an incognito browser
+  - Video links that are not accessible or do not work will receive a 25% penalty.
+  - If you have any concerns about privacy, please reach out to the teaching team for alternative submission options.
 - Submit the presentation slides as a PDF document named:
   - Project_Group#_M3.pdf -- example: Project_Group4_M3.pdf
 
@@ -71,11 +88,10 @@ The video presentation should include the following elements:
 - You will be submitting your presentation slides to both canvas and turnitin
 - Details to join course on [Turnitint](http://turnitin.com/)
   - Create a new account using your SFU email (or use an existing account linked to your SFU account)
-  - Class ID is **42283711 **
+  - Class ID is **42283711**
   - Enrollment key is **SunsetLand**.
 - Submit the PDF to assignment on turnitin prior the deadlines
   - Failure to submit slides on both Canvas AND turnitin will result in a penalty.
-
 
 ## Project Milestone 2: Product Requirements Document
 
