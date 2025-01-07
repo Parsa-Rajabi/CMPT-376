@@ -6,11 +6,7 @@ As part of this project, you will gain practical experience in navigating ethica
 
 | **Version** |    **Date**    |                                 **Changes**                                 |
 | :---------: | :------------: | :-------------------------------------------------------------------------: |
-|    v1.0     |  Feb 5, 2024   |                         Initial version of project                          |
-|    v1.1     |  Feb 16, 2024  |       Updated Milestone 1: [Report Description](#report-description)        |
-|    v2.0     | March 17, 2024 | Added Milestone 2: [Report Description](#product-requirements-document-prd) |
-|    v3.0     | March 31, 2024 |  Added Milestone 3: [Presentation Description](#presentation-description)   |
-|    v3.1     | Apri1 3, 2024  |                         Updated Milestone 3 Details                         |
+|    v1.0     |  Jan 6, 2025   |                         Initial version of project                          |
 
 ## Structure
 
@@ -20,78 +16,155 @@ This project is broken down into 3 milestones:
 - Milestone 2: Product Requirements Document - Design and Development
 - Milestone 3: Project Pitch + Presentation
 
-Each milestone will include the following:
-
 Between the milestones 1 and 2, each team will be required to do a check-in with their assigned TA to ensure the project is on track.
 
 ## Schedule
 
 |                            Project Element                            | Due Date (11:59pm PST) |
 | :-------------------------------------------------------------------: | :--------------------: |
-|                            Groups Assigned                            |    Tuesday, Jan 30     |
-| [Milestone 1](#project-milestone-1-value-driven-request-for-proposal) |    Friday, March 1     |
-|                     [Project Check-in](#check-in)                     |      March 18-22       |
-|   [Milestone 2](#project-milestone-2-product-requirements-document)   |         Monday, April 8           |
-|                              [Milestone 3](#presentation-description)                              |          Friday, April 12          |
+| [Milestone 1](#milestone-1-value-driven-request-for-proposal) |     Friday, Feb 28     |
+|  [Milestone 1.5 - Project Check-in](#milestone-15-project-check-in)   |      March 17-21       |
+|   [Milestone 2](#milestone-2-product-requirements-document)   |    Monday, April 4     |
+|           [Milestone 3](#milestone-3-presentation)            |    Friday, April 8     |
 
-## Project Milestone 3: Presentation
+---
 
-In this project milestone (M3), you will present your Admissions Management System to stakeholders of the School of Computing Science at SFU. This presentation will be used to showcase the system design and development to the stakeholders.
+<div class="accordion">
+
+<details>
+<summary><b>Milestone 1: Value-Driven Request for Proposal</b></summary>
+
+## Milestone 1: Value-Driven Request for Proposal
+
+In this project milestone (M1), you will learn about value-driven design and apply the approach to develop a request for proposal. 
 
 ## Scenario
 
-The School of Computing Science at SFU will be reviewing your Product Requirements Document (PRD) and make an approval decisions for the development of the Admissions Management System. You are now required to present the system design and development to the stakeholders. The presentation will be used to showcase the system design and development and to demonstrate how the system will meet the requirements outlined in the PRD.
+The School of Computing Science at SFU, a department in a public university in BC, has historically used GPA as the only indicator for admissions into the department. With the disappearance of provincial exams, the School of CS is considering adopting an alternative system to rank promising candidates for acceptance. They are also considering the use of artificial intelligence. They issue an open request for proposals to local Canadian companies for an Admissions Management System.
 
-## Presentation Description
+You are the founders of <name your group of 4>, and you aim to bid to become the developer of this project. As part of the bid, you have been tasked to provide a report that will guide the product design and outline risks. This report will be used to determine the feasibility of the project and to guide the development of the system. The report will also be used to determine the ethical implications of the system and to ensure that the system is designed in a way that is consistent with the values of the department, university and the broader community.
 
-The video presentation should include the following elements:
-- Introduction
-  - Briefly introduce the team and the scope of the project
-  - Provide an overview of the presentation and what the audience can expect
-- Ranking Algorithm  
-  - Describe the algorithm design 
-  - Walk-through the logical flow of the algorithm
-- How your design meets the needs of the stakeholders 
+## Frameworks and Guidelines
+
+The CS department requires that you ground your proposal in following frameworks and guidelines:
+- Foresight into AI Ethics (FAIE) - [Link](https://openroboethics.org/wp-content/uploads/2021/07/ORI-Foresight-into-Artificial-Intelligence-Ethics-Launch-V1.pdf)
+  - This value-driven ethical design toolkit (Steps 1-6) should be used to identify the primary use cases, identify stakeholder groups and understand their values and value tensions. Through this process, you will synthesize your findings, along with the ethical risks (Step 8).
+
+- ACM Code of Ethics and Professional Conduct - [Link](https://www.acm.org/code-of-ethics)
+  - This code of ethics should be used to guide the development of the system. The department requires that you identify at least 4 principles from the ACM Code of Ethics that are relevant to the development of the system and explain how these principles will be upheld (1 principle per group member).
+
+In addition to the frameworks and guidelines, the department requires that you:
+- Conduct research on at least 4 other universities in the world and their admissions processes (1 per group member). 
+  - This research should aim to identify the values that are important to these universities and how they are reflected in their admissions processes. Through this process, you will synthesize your findings and identify the values that are important to the broader community. Highlight any value tensions that may exist.
+
+- Describe the algorithm design, the data that will be used and rationale for its selection.
+  - The department is keen to understand the ethical implications of the algorithm and the data that will be used. As part of this process, your team will be required to select which data you will require from the prospective students and explain why you need this data. You will also be required to disclose how or what data will playa role in student ranking and selection. While disclosing this information, you will be required to highlight the weight of each data point and any formulas that will be used to calculate the student's ranking. 
+- Some of the data that the department has suggested that you may require includes:
+  - High school transcripts with:
+    - grades on required courses
+    - grades on non-required courses
+  - Scholarship and award history
+  - Name
+  - Gender
+  - Photo
+  - Phone number
+  - Birthdate
+  - Social Insurance Number (SIN)
+  - School district
+  - School name
+  - School address
+  - Country of citizenship
+  - Country of birth
+  - English language proficiency
+  - Self-reported ancestry
+  - Disability status
+  - Extracurricular activities
+  - Essay question responses**
+
+    - ** Note: *The department is also considering using an AI-detector for the essay questions. The AI-detector will be used to determine if the essay question responses are authentic and assign a score to the responses called "AI-score". As part of your proposal, you will be required to address how you will or will not use the AI-score for the algorithm design.*
+
+## Report Description
+
+You will submit a report comprising of the following major headings:
+- Foresight into AI Ethics (FAIE):
+  - The outcomes of Steps 1-6 and Step 8 from the value-driven ethical design toolkit. 
+- ACM Code of Ethics and Professional Conduct
+  - The 4 principles from the ACM Code of Ethics that are relevant to the development of the system and an explanation of how these principles will be upheld.
+- Research on at least 4 other universities in the world and their admissions processes
+  - The values that are important to these universities and how they are reflected in their admissions processes. Highlight any value tensions that may exist.
+- Algorithm Design and Data Selection
+  - The data that will be used and rationale for its selection. 
+  - The ethical implications of the algorithm and the data that will be used. 
+  - The data that you will require from the prospective students and explain why you need this data. 
+  - How or what data will play a role in student ranking and selection?
+  - The weight of each data point and any formulas that will be used to calculate the student's ranking. 
+  - Address how you will or will not use the AI-score for the algorithm design.
+  - **_\*NEW\*_** Questions to consider and address while completing this section (source: [Government of Canada, Algorithmic Impact Assessment Framework](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)):
+    - Will you have documented processes in place to test datasets against biases and other unexpected outcomes? This could include experience in applying frameworks, methods, guidelines or other assessment tools.
+    - Will you be making this information publicly available?
+    - Have you assigned accountability in your institution for the design, development, maintenance, and improvement of the system?
+    - Will the system be able to produce reasons for its decisions or recommendations when required?
+    - Will there be a mechanism to capture feedback by users of the system?
+    - Will the system enable human override of system decisions?
+    - Will there be a process in place to log the instances when overrides were performed?
+    - Will you de-identify any personal information used or created by the system at any point in the lifecycle?
 
 ## Details
-- The presentation will submitted as pre-recorded video with subtitles
-  - The use of AI tools to generate subtitles must be reported in the AI-disclosure form.
-  - You are responsible for accuracy of your subtitles, regardless if you use AI or not.
-- The video should be 5 minutes in length (max), no minimum length
-  - A 10% penalty will applied to videos over 5 minutes
-- The presentation should be engaging and informative 
-- Support your presentation with visual easy-to-read slides for each section 
-  - You're encouraged to be creative with your slides, but ensure they are professional and easy to read
-- Each team member should have at least a 30 second speaking role in the presentation
-- Make sure to practice your presentation multiple times before the actual presentation
-  - Ensure transitions between speakers are smooth and that the presentation flows well
-
-## AI-Disclosure 
-- AI-usage for this submission is permissible, however all prompts and details must be disclosed and submitted as per course AI-policy.
-  - Everyone will have to disclose this regardless if they use AI or not.
-  - [Link to AI-usage Disclosure form](https://forms.office.com/r/cJrQSdh1BB)
-  - Failure to submit this form will be considered a violation of AI course policy and a 25% penalty will be applied to your grade.
-- If you're planning to use AI, I recommend keeping track of all your prompts and results in a separate (google, word, etc.) document for ease when you're submitting the form. 
+- You're welcome to use this opportunity to use and become familiar with LaTeX (although we won't go over this tool in this course). SFU has a paid plan that you should be able to access via [this page](https://www.overleaf.com/edu/sfu). If you optionally choose to use LaTeX, please make sure to adhere to the guidelines below. 
+- The report should be 2000 words in length (+/- 10% => range: 1800-2200 words), 1.5-spaced, 12-point font, Times New Roman font, 1-inch (2.54 cm) margins. Include the word count at the end of the report (before the references section, if there is one) -- the element "Word Count: XXX" does not count towards your essay word count.
+- If you (optionally) use external sources such as websites, academic papers, journals etc., then cite them using [IEEE citation format](https://www.lib.sfu.ca/help/research-assistance/subject/engineering-science/citing-writing) and include a references section at the end of the report (references are not counted towards your word count)
 
 ## Submission
-- This is a group assignment for a team of 4 students, and only one submission per group is required.
-- A link to the video presentation should be included on the first slide of the presentation
-  - Should you choose to so, you can upload it to YouTube and set the [visibility to unlisted or public](https://support.google.com/youtube/answer/157177)
-  - If you choose not to use YouTube, then you can upload your video to your personal google drive and/or your [SFU oneDrive](https://sfu.teamdynamix.com/TDClient/255/ITServices/KB/ArticleDet?ID=3820#sign_in)
-  - Regardless of which option you choose, you must verify that your link works. You can do so by accessing the link in an incognito browser
-  - Video links that are not accessible or do not work will receive a 25% penalty.
-  - If you have any concerns about privacy, please reach out to the teaching team for alternative submission options.
-- Submit the presentation slides as a PDF document named:
-  - Project_Group#_M3.pdf -- example: Project_Group4_M3.pdf
+- This is a group assignment for a team of 4 students, and only one submission per group is required. 
+- Classmates outside of your group may read your report during a Weekly Online Activity focusing on peer reviewing. 
+- Submit the report as a PDF document named:
+  - Project_Group#_M1.pdf -- example: Project_Group4_M1.pdf (the group number is the number assigned to your group in the course, under "People" in Canvas. The M1 stands for Milestone 1, which you will change to M2 for Milestone 2, and M3 for Milestone 3.)
 
 ### Turnitin and Canvas
-- You will be submitting your presentation slides to both canvas and turnitin
+- You will be submitting the same PDF report to both canvas and turnitin
 - Details to join course on [Turnitint](http://turnitin.com/)
   - Create a new account using your SFU email (or use an existing account linked to your SFU account)
-  - Class ID is **42283711**
+  - Class ID is **42283711 **
   - Enrollment key is **SunsetLand**.
-- Submit the PDF to assignment on turnitin prior the deadlines
-  - Failure to submit slides on both Canvas AND turnitin will result in a penalty.
+- Submit the PDF to the assignment on turnitin prior the deadlines
+  - Failure to submit assignment on both Canvas AND turnitin will result in a penalty.
+
+### Turnitin Resources
+- [How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
+- [How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
+
+
+<!-- Syntax & Grammar (15%):
+• Paper is free of spelling and grammatical errors
+• Uses language that clearly and effectively conveys ideas
+• Writes with clear sentence and paragraph structure, and appears to have been revised using the techniques described in class 
+
+Coverage & Organization (15%):
+• Report covers all the required sections, organized appropriately
+• Provides a concise and engaging abstract and introduction
+• Writing shows a logical flow
+
+Research (20%):
+• Shows evidence of appropriate and relevant research
+• Cites all references using proper conventions 
+
+Depth & Insight (50%):
+• Provides insight into the topic in various dimensions (e.g. social, individual, economic, ethical, regulatory)
+• Presents information that is coherent, organized, and connected by clear transitions
+• Concludes with a clear, concise summary of the findings -->
+
+</details>
+
+<details>
+<summary><b>Milestone 1.5: Project Check-in</b></summary>
+
+## Milestone 1.5: Project Check-in
+
+During this check-in, your group will have the opportunity to meet with your assigned TA and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with your TA:
+
+(Canvas assignment)[https://canvas.sfu.ca/courses/82649/assignments/963218]
+
+**`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend. This penalty will only be applied to the group members who do not attend the check-in.`**
 
 ## Project Milestone 2: Product Requirements Document
 
@@ -251,133 +324,77 @@ The PRD should include the following sections:
 - [How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
 - [How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
 
-## Project Check-in
+</details>
 
-During this check-in, your group will have the opportunity to meet with your assigned TA and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with your TA:
+<details>
 
-(Canvas assignment)[https://canvas.sfu.ca/courses/82649/assignments/963218]
+<summary><b>Milestone 3: Presentation</b></summary>
 
-**`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend. This penalty will only be applied to the group members who do not attend the check-in.`**
+## Milestone 3: Presentation
 
-
-## Project Milestone 1: Value-Driven Request for Proposal
-
-In this project milestone (M1), you will learn about value-driven design and apply the approach to develop a request for proposal. 
+In this project milestone (M3), you will present your Admissions Management System to stakeholders of the School of Computing Science at SFU. This presentation will be used to showcase the system design and development to the stakeholders.
 
 ## Scenario
 
-The School of Computing Science at SFU, a department in a public university in BC, has historically used GPA as the only indicator for admissions into the department. With the disappearance of provincial exams, the School of CS is considering adopting an alternative system to rank promising candidates for acceptance. They are also considering the use of artificial intelligence. They issue an open request for proposals to local Canadian companies for an Admissions Management System.
+The School of Computing Science at SFU will be reviewing your Product Requirements Document (PRD) and make an approval decisions for the development of the Admissions Management System. You are now required to present the system design and development to the stakeholders. The presentation will be used to showcase the system design and development and to demonstrate how the system will meet the requirements outlined in the PRD.
 
-You are the founders of <name your group of 4>, and you aim to bid to become the developer of this project. As part of the bid, you have been tasked to provide a report that will guide the product design and outline risks. This report will be used to determine the feasibility of the project and to guide the development of the system. The report will also be used to determine the ethical implications of the system and to ensure that the system is designed in a way that is consistent with the values of the department, university and the broader community.
+## Presentation Description
 
-## Frameworks and Guidelines
-
-The CS department requires that you ground your proposal in following frameworks and guidelines:
-- Foresight into AI Ethics (FAIE) - [Link](https://openroboethics.org/wp-content/uploads/2021/07/ORI-Foresight-into-Artificial-Intelligence-Ethics-Launch-V1.pdf)
-  - This value-driven ethical design toolkit (Steps 1-6) should be used to identify the primary use cases, identify stakeholder groups and understand their values and value tensions. Through this porcess, you will synthesize your findings, along with the ethical risks (Step 8).
-
-- ACM Code of Ethics and Professional Conduct - [Link](https://www.acm.org/code-of-ethics)
-  - This code of ethics should be used to guide the development of the system. The department requires that you identify at least 4 principles from the ACM Code of Ethics that are relevant to the development of the system and explain how these principles will be upheld (1 principle per group member).
-
-In addition to the frameworks and guidelines, the department requires that you:
-- Conduct research on at least 4 other universities in the world and their admissions processes (1 per group member). 
-  - This research should aim to identify the values that are important to these universities and how they are reflected in their admissions processes. Through this process, you will synthesize your findings and identify the values that are important to the broader community. Highlight any value tensions that may exist.
-
-- Describe the algorithm design, the data that will be used and rationale for its selection.
-  - The department is keen to understand the ethical implications of the algorithm and the data that will be used. As part of this process, your team will be required to select which data you will require from the prospective students and explain why you need this data. You will also be required to disclose how or what data will playa role in student ranking and selection. While disclosing this information, you will be required to highlight the wieght of each data point and any formulas that will be used to calculate the student's ranking. 
-- Some of the data that the department has suggested that you may require includes:
-  - High school transcripts with:
-    - grades on required courses
-    - grades on non-required courses
-  - Scholarship and award history
-  - Name
-  - Gender
-  - Photo
-  - Phone number
-  - Birthdate
-  - Social Insurance Number (SIN)
-  - School district
-  - School name
-  - School address
-  - Country of citizenship
-  - Country of birth
-  - English language proficiency
-  - Self-reported ancestry
-  - Disablity status
-  - Extracurricular activities
-  - Essay question responses**
-
-    - ** Note: *The department is also considering using an AI-detector for the essay questions. The AI-detector will be used to determine if the essay question responses are authentic and assign a score to the responses called "AI-score". As part of your proposal, you will be required to address how you will or will not use the AI-score for the algorithm design.*
-
-## Report Description
-
-You will submit a report comprising of the following major headings:
-- Foresight into AI Ethics (FAIE):
-  - The outcomes of Steps 1-6 and Step 8 from the value-driven ethical design toolkit. 
-- ACM Code of Ethics and Professional Conduct
-  - The 4 principles from the ACM Code of Ethics that are relevant to the development of the system and an explanation of how these principles will be upheld.
-- Research on at least 4 other universities in the world and their admissions processes
-  - The values that are important to these universities and how they are reflected in their admissions processes. Highlight any value tensions that may exist.
-- Algorithm Design and Data Selection
-  - The data that will be used and rationale for its selection. 
-  - The ethical implications of the algorithm and the data that will be used. 
-  - The data that you will require from the prospective students and explain why you need this data. 
-  - How or what data will play a role in student ranking and selection?
-  - The wieght of each data point and any formulas that will be used to calculate the student's ranking. 
-  - Address how you will or will not use the AI-score for the algorithm design.
-  - **_\*NEW\*_** Questions to consider and address while completing this section (source: [Government of Canada, Algorithmic Impact Assessment Framework](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)):
-    - Will you have documented processes in place to test datasets against biases and other unexpected outcomes? This could include experience in applying frameworks, methods, guidelines or other assessment tools.
-    - Will you be making this information publicly available?
-    - Have you assigned accountability in your institution for the design, development, maintenance, and improvement of the system?
-    - Will the system be able to produce reasons for its decisions or recommendations when required?
-    - Will there be a mechanism to capture feedback by users of the system?
-    - Will the system enable human override of system decisions?
-    - Will there be a process in place to log the instances when overrides were performed?
-    - Will you de-identify any personal information used or created by the system at any point in the lifecycle?
+The video presentation should include the following elements:
+- Introduction
+  - Briefly introduce the team and the scope of the project
+  - Provide an overview of the presentation and what the audience can expect
+- Ranking Algorithm  
+  - Describe the algorithm design 
+  - Walk-through the logical flow of the algorithm
+- How your design meets the needs of the stakeholders 
 
 ## Details
-- You're welcome to use this opportunity to use and become familiar with LaTeX (although we won't go over this tool in this course). SFU has a paid plan that you should be able to access via [this page](https://www.overleaf.com/edu/sfu). If you optionally choose to use LaTeX, please make sure to adhere to the guidelines below. 
-- The report should be 2000 words in length (+/- 10% => range: 1800-2200 words), 1.5-spaced, 12-point font, Times New Roman font, 1-inch (2.54 cm) margins. Include the word count at the end of the report (before the references section, if there is one) -- the element "Word Count: XXX" does not count towards your essay word count.
-- If you (optionally) use external sources such as websites, academic papers, journals etc., then cite them using [IEEE citation format](https://www.lib.sfu.ca/help/research-assistance/subject/engineering-science/citing-writing) and include a references section at the end of the report (references are not counted towards your word count)
+- The presentation will submitted as pre-recorded video with subtitles
+  - The use of AI tools to generate subtitles must be reported in the AI-disclosure form.
+  - You are responsible for accuracy of your subtitles, regardless if you use AI or not.
+- The video should be 5 minutes in length (max), no minimum length
+  - A 10% penalty will applied to videos over 5 minutes
+- The presentation should be engaging and informative 
+- Support your presentation with visual easy-to-read slides for each section 
+  - You're encouraged to be creative with your slides, but ensure they are professional and easy to read
+- Each team member should have at least a 30 second speaking role in the presentation
+- Make sure to practice your presentation multiple times before the actual presentation
+  - Ensure transitions between speakers are smooth and that the presentation flows well
+
+## AI-Disclosure 
+- AI-usage for this submission is permissible, however all prompts and details must be disclosed and submitted as per course AI-policy.
+  - Everyone will have to disclose this regardless if they use AI or not.
+  - [Link to AI-usage Disclosure form](https://forms.office.com/r/cJrQSdh1BB)
+  - Failure to submit this form will be considered a violation of AI course policy and a 25% penalty will be applied to your grade.
+- If you're planning to use AI, I recommend keeping track of all your prompts and results in a separate (google, word, etc.) document for ease when you're submitting the form. 
 
 ## Submission
-- This is a group assignment for a team of 4 students, and only one submission per group is required. 
-- Classmates outside of your group may read your report during a Weekly Online Activity focusing on peer reviewing. 
-- Submit the report as a PDF document named:
-  - Project_Group#_M1.pdf -- example: Project_Group4_M1.pdf (the group number is the number assigned to your group in the course, under "People" in Canvas. The M1 stands for Milestone 1, which you will change to M2 for Milestone 2, and M3 for Milestone 3.)
+- This is a group assignment for a team of 4 students, and only one submission per group is required.
+- A link to the video presentation should be included on the first slide of the presentation
+  - Should you choose to so, you can upload it to YouTube and set the [visibility to unlisted or public](https://support.google.com/youtube/answer/157177)
+  - If you choose not to use YouTube, then you can upload your video to your personal google drive and/or your [SFU oneDrive](https://sfu.teamdynamix.com/TDClient/255/ITServices/KB/ArticleDet?ID=3820#sign_in)
+  - Regardless of which option you choose, you must verify that your link works. You can do so by accessing the link in an incognito browser
+  - Video links that are not accessible or do not work will receive a 25% penalty.
+  - If you have any concerns about privacy, please reach out to the teaching team for alternative submission options.
+- Submit the presentation slides as a PDF document named:
+  - Project_Group#_M3.pdf -- example: Project_Group4_M3.pdf
 
 ### Turnitin and Canvas
-- You will be submitting the same PDF report to both canvas and turnitin
+- You will be submitting your presentation slides to both canvas and turnitin
 - Details to join course on [Turnitint](http://turnitin.com/)
   - Create a new account using your SFU email (or use an existing account linked to your SFU account)
-  - Class ID is **42283711 **
+  - Class ID is **42283711**
   - Enrollment key is **SunsetLand**.
-- Submit the PDF to the assignment on turnitin prior the deadlines
-  - Failure to submit assignment on both Canvas AND turnitin will result in a penalty.
+- Submit the PDF to assignment on turnitin prior the deadlines
+  - Failure to submit slides on both Canvas AND turnitin will result in a penalty.
 
-### Turnitin Resources
-- [How to set up your turnitin account](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/setting-up-your-account-using-an-enrollment-key.htm)
-- [How to submit an assignment to turnitin](https://help.turnitin.com/feedback-studio/turnitin-website/student/submitting-a-paper/file-upload-submission.htm)
+</details>
 
 
-<!-- Syntax & Grammar (15%):
-• Paper is free of spelling and grammatical errors
-• Uses language that clearly and effectively conveys ideas
-• Writes with clear sentence and paragraph structure, and appears to have been revised using the techniques described in class 
+<details>
 
-Coverage & Organization (15%):
-• Report covers all the required sections, organized appropriately
-• Provides a concise and engaging abstract and introduction
-• Writing shows a logical flow
-
-Research (20%):
-• Shows evidence of appropriate and relevant research
-• Cites all references using proper conventions 
-
-Depth & Insight (50%):
-• Provides insight into the topic in various dimensions (e.g. social, individual, economic, ethical, regulatory)
-• Presents information that is coherent, organized, and connected by clear transitions
-• Concludes with a clear, concise summary of the findings -->
+<summary><b>Group Project Expectations</b></summary>
 
 
 ## Group Project Expectations
@@ -438,3 +455,8 @@ This group project is intended for collaborative teamwork. Each member is expect
 - Open communication with peers and teaching team is crucial. Engaging in early dialogue can mitigate issues effectively.
 - In cases of extenuating circumstances, such as significant health or personal challenges, discretion in the application of this policy will rest with the course instructor and department.
 - Guidance on effective collaboration and group dynamics will be provided at the outset of the project to establish clear participation expectations.
+
+</details>
+
+
+</div>
