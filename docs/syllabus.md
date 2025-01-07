@@ -199,6 +199,14 @@ As a student you may experience a range of issues that can cause barriers to lea
 - [Resources to support individual and collective identities](http://www.sfu.ca/students/health/resources/identity.html) are available
 - Learn more about [My SSP for 24/7 mental health support](http://www.sfu.ca/students/health/get-support/my-ssp.html) for SFU and FIC students worldwide
 
+## Turnitin - Privacy 
+
+The written work submitted via Turnitin is collected by SFU under the authority of the Freedom of Information and Protection of Privacy Act (RSBC 1996, c.165), the University Act (RSBC 1996, c.468), and the University’s Academic Honesty and Student Conduct Policies . It is related directly to and needed by the University to determine originality, possible use of AI, and detect plagiarism in submitted written work.
+
+Students will be required to create an account with Turnitin, and to submit their work via that account, on the terms stipulated in the agreement between the student and Turnitin. This agreement includes the retention of your submitted work as part of the Turnitin database. Any student with a concern about using the Turnitin service may opt to use an anonymous identity in their interactions with Turnitin. Students who do not intend to use Turnitin in the standard manner must notify the instructor at least two weeks in advance of any submission deadline. In particular, it is the responsibility of any student using the anonymous option (i.e., false name and temporary email address created for the purpose) to inform the instructor such that the instructor can match up the anonymous identity with the student.
+
+For more information, see the [Protection of Privacy section of the SFU calendar](https://www.sfu.ca/students/calendar/fees-and-regulations/student-contract/pop.html).
+
 ### SFU COVID-19 Protocols (last update 4 Jan, 2023)
 
 Based on the Order of the Provincial Health Officer, SFU has suggested a few guidelines for teaching activities. Here are some of the important ones:

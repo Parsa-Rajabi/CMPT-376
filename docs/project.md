@@ -99,7 +99,7 @@ You will submit a report comprising of the following major headings:
   - How or what data will play a role in student ranking and selection?
   - The weight of each data point and any formulas that will be used to calculate the student's ranking. 
   - Address how you will or will not use the AI-score for the algorithm design.
-  - **_\*NEW\*_** Questions to consider and address while completing this section (source: [Government of Canada, Algorithmic Impact Assessment Framework](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)):
+  - Questions to consider and address while completing this section (source: [Government of Canada, Algorithmic Impact Assessment Framework](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)):
     - Will you have documented processes in place to test datasets against biases and other unexpected outcomes? This could include experience in applying frameworks, methods, guidelines or other assessment tools.
     - Will you be making this information publicly available?
     - Have you assigned accountability in your institution for the design, development, maintenance, and improvement of the system?
