@@ -20,12 +20,12 @@ Between the milestones 1 and 2, each team will be required to do a check-in with
 
 ## Schedule
 
-|                            Project Element                            | Due Date (11:59pm PST) |
-| :-------------------------------------------------------------------: | :--------------------: |
-| [Milestone 1](#milestone-1-value-driven-request-for-proposal) |     Friday, Feb 28     |
-|  [Milestone 1.5 - Project Check-in](#milestone-15-project-check-in)   |      March 17-21       |
-|   [Milestone 2](#milestone-2-product-requirements-document)   |    Monday, April 4     |
-|           [Milestone 3](#milestone-3-presentation)            |    Friday, April 8     |
+|         Project Element          | Due Date (11:59pm PST) |
+| :------------------------------: | :--------------------: |
+|           Milestone 1            |     Friday, Feb 28     |
+| Milestone 1.5 - Project Check-in |      March 17-21       |
+|           Milestone 2            |    Monday, April 4     |
+|           Milestone 3            |    Friday, April 8     |
 
 ---
 
