@@ -1,4 +1,4 @@
 - [Syllabus](syllabus)
-- [AI Policy](ai-policy)
+<!-- - [AI Policy](ai-policy) -->
 - [Teaching Team](teaching-team)
 - [Feedback](feedback)
