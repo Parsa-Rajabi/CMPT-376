@@ -1,11 +1,13 @@
 # Teaching Team
 
 
-|           **Name**            |      **Email** :fas fa-envelope fa-fw:       | **Office Hours**     :fas fa-house-medical: |   **Location**    |
-| :---------------------------: | :------------------------------------------: | :-----------------------------------------: | :---------------: |
-| **Parsa** Rajabi (Instructor) |     parsa_r [at] `DELETEthisTEXT` sfu.ca     |            Tuesdays 10:20-11:20             |     SYRE 5127     |
-|  **Prasanna** Aravindan (TA)  |      pva19 [at] `DELETEthisTEXT` sfu.ca      |                     TBA                     | [Zoom Link TBA]() |
-|   **Gayathri** Rayudu (TA)    | gayathri_rayudu [at] `DELETEthisTEXT` sfu.ca |                     TBA                     | [Zoom Link TBA]() |
+|           **Name**            |      **Email** :fas fa-envelope fa-fw:       | **Office Hours**     :fas fa-house-medical: |                                   **Location**                                   |
+| :---------------------------: | :------------------------------------------: | :-----------------------------------------: | :------------------------------------------------------------------------------: |
+| **Parsa** Rajabi (Instructor) |     parsa_r [at] `DELETEthisTEXT` sfu.ca     |            Tuesdays 10:20-11:20             |                                SYRE 2016 OR 5127                                 |
+|  **Prasanna** Aravindan (TA)  |      pva19 [at] `DELETEthisTEXT` sfu.ca      |              Mondays 3:30-4:30              | [Booking Link](https://calendly.com/pva19/cmpt-376-ta-office-hour-with-prasanna) |
+|   **Gayathri** Rayudu (TA)    | gayathri_rayudu [at] `DELETEthisTEXT` sfu.ca |               Thursdays 12-1                |               [Booking Link](https://calendly.com/gra33-sfu/10min)               |
+|    **Linas** Beresna (TA)     |      lba42 [at] `DELETEthisTEXT` sfu.ca      |              Fridays 8:30-9:30              | [Booking Link](https://calendly.com/beres-linas/cmpt-376-ta-office-hour-w-linas) |
+
 
 ## Slack
 
