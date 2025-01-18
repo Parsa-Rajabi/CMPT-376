@@ -2,7 +2,7 @@
 
 ## Disclosure Form
 
-Link to AI Use Disclosure Form TBA
+[Link to AI Use Disclosure Form](https://forms.office.com/r/pG1nQ9SAWu)
 
 ### PDF of AI Usage Disclosure 
 
