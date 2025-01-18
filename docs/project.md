@@ -4,9 +4,10 @@ As part of this project, you will gain practical experience in navigating ethica
 
 ## Changelog
 
-| **Version** |    **Date**    |                                 **Changes**                                 |
-| :---------: | :------------: | :-------------------------------------------------------------------------: |
-|    v1.0     |  Jan 6, 2025   |                         Initial version of project                          |
+| **Version** |   **Date**   |           **Changes**            |
+| :---------: | :----------: | :------------------------------: |
+|    v1.0     | Jan 6, 2025  |    Initial version of project    |
+|    v1.1     | Jan 17, 2025 | Minoring formatting/link updates |
 
 ## Structure
 
@@ -124,7 +125,7 @@ You will submit a report comprising of the following major headings:
 - You will be submitting the same PDF report to both canvas and turnitin
 - Details to join course on [Turnitint](http://turnitin.com/)
   - Create a new account using your SFU email (or use an existing account linked to your SFU account)
-  - Class ID is **42283711 **
+  - Class ID is **46893104**
   - Enrollment key is **SunsetLand**.
 - Submit the PDF to the assignment on turnitin prior the deadlines
   - Failure to submit assignment on both Canvas AND turnitin will result in a penalty.
@@ -162,9 +163,14 @@ Depth & Insight (50%):
 
 During this check-in, your group will have the opportunity to meet with your assigned TA and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with your TA:
 
-(Canvas assignment)[https://canvas.sfu.ca/courses/82649/assignments/963218]
+[Canvas assignment](https://canvas.sfu.ca/courses/88206/assignments/1054202?module_item_id=3627984)
 
 **`All group members are expected to attend this check-in, failure to do so will result in a -10% deduction from the project grade for each member who does not attend. This penalty will only be applied to the group members who do not attend the check-in.`**
+
+</details>
+
+<details>
+<summary><b>Project Milestone 2: Product Requirements Document</b></summary>
 
 ## Project Milestone 2: Product Requirements Document
 
@@ -315,7 +321,7 @@ The PRD should include the following sections:
 - You will be submitting the same PDF report to both canvas and turnitin
 - Details to join course on [Turnitint](http://turnitin.com/)
   - Create a new account using your SFU email (or use an existing account linked to your SFU account)
-  - Class ID is **42283711 **
+  - Class ID is **46893104**
   - Enrollment key is **SunsetLand**.
 - Submit the PDF to the assignment on turnitin prior the deadlines
   - Failure to submit assignment on both Canvas AND turnitin will result in a penalty.
@@ -384,7 +390,7 @@ The video presentation should include the following elements:
 - You will be submitting your presentation slides to both canvas and turnitin
 - Details to join course on [Turnitint](http://turnitin.com/)
   - Create a new account using your SFU email (or use an existing account linked to your SFU account)
-  - Class ID is **42283711**
+  - Class ID is **46893104**
   - Enrollment key is **SunsetLand**.
 - Submit the PDF to assignment on turnitin prior the deadlines
   - Failure to submit slides on both Canvas AND turnitin will result in a penalty.
