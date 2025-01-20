@@ -69,15 +69,15 @@ Lastly, be aware of the dangers of becoming overly dependent on these tools. Whi
 
 Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. Failure to submit the disclosure will be considered a violation of the academic policy and a penalty of -25% will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
 
-## For every learning log submission, you are required to disclose the use of AI tools
+## For every weekly activity submission, you are required to disclose the use of AI tools
 
-For every learning log submission, students will include a brief statement declaring how much AI was used in their response. This declaration is based on the AI Usage Scale provided in the syllabus and detailed below. The declaration will help the teaching team and your peers understand the context of your work.
+For every weekly activity submission, students will include a brief statement declaring how much AI was used in their response. This declaration is based on the AI Usage Scale provided in the syllabus and detailed below. The declaration will help the teaching team and your peers understand the context of your work.
 
 Similar to the AI usage disclosure for assignments, failure to include this statement will be considered a violation of the academic policy and a penalty of `-25%` will be applied to your grade if the disclosure is not included in your submission.
 
 ### AI Usage Scale
 
-Select one of the following options (make sure to include the icon/emoji) to indicate the extent of AI use in your learning log submission:
+Select one of the following options (make sure to include the icon/emoji) to indicate the extent of AI use in your weekly activity submission:
 
 <div class="accordion">
 
