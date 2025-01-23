@@ -4,10 +4,11 @@ As part of this project, you will gain practical experience in navigating ethica
 
 ## Changelog
 
-| **Version** |   **Date**   |           **Changes**            |
-| :---------: | :----------: | :------------------------------: |
-|    v1.0     | Jan 6, 2025  |    Initial version of project    |
-|    v1.1     | Jan 17, 2025 | Minoring formatting/link updates |
+| **Version** |   **Date**   |                            **Changes**                            |
+| :---------: | :----------: | :---------------------------------------------------------------: |
+|    v1.0     | Jan 6, 2025  |                    Initial version of project                     |
+|    v1.1     | Jan 17, 2025 |                 Minoring formatting/link updates                  |
+|    v1.2     | Jan 22, 2025 | Removed M3 turnitin submission; updated AI disclosure link for M3 |
 
 ## Structure
 
@@ -371,7 +372,7 @@ The video presentation should include the following elements:
 ## AI-Disclosure 
 - AI-usage for this submission is permissible, however all prompts and details must be disclosed and submitted as per course AI-policy.
   - Everyone will have to disclose this regardless if they use AI or not.
-  - [Link to AI-usage Disclosure form](https://forms.office.com/r/cJrQSdh1BB)
+  - [Link to AI-usage Disclosure form](https://parsa-rajabi.github.io/CMPT-376/#/ai-policy?id=disclosure-form)
   - Failure to submit this form will be considered a violation of AI course policy and a 25% penalty will be applied to your grade.
 - If you're planning to use AI, I recommend keeping track of all your prompts and results in a separate (google, word, etc.) document for ease when you're submitting the form. 
 
@@ -387,13 +388,7 @@ The video presentation should include the following elements:
   - Project_Group#_M3.pdf -- example: Project_Group4_M3.pdf
 
 ### Turnitin and Canvas
-- You will be submitting your presentation slides to both canvas and turnitin
-- Details to join course on [Turnitint](http://turnitin.com/)
-  - Create a new account using your SFU email (or use an existing account linked to your SFU account)
-  - Class ID is **46893104**
-  - Enrollment key is **SunsetLand**.
-- Submit the PDF to assignment on turnitin prior the deadlines
-  - Failure to submit slides on both Canvas AND turnitin will result in a penalty.
+- No turnitin submission is required for this milestone.
 
 </details>
 
