@@ -8,7 +8,6 @@
 |   **Gayathri** Rayudu (TA)    | gayathri_rayudu [at] `DELETEthisTEXT` sfu.ca |               Thursdays 12-1                |               [Booking Link](https://calendly.com/gra33-sfu/10min)               |
 |    **Linas** Beresna (TA)     |      lba42 [at] `DELETEthisTEXT` sfu.ca      |              Fridays 8:30-9:30              | [Booking Link](https://calendly.com/beres-linas/cmpt-376-ta-office-hour-w-linas) |
 |  **Parnian**  Taghipour (TA)  |      Pta51 [at] `DELETEthisTEXT` sfu.ca      |                      -                      |                                        -                                         |
-    
 
 
 ## Slack
