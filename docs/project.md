@@ -9,6 +9,7 @@ As part of this project, you will gain practical experience in navigating ethica
 |    v1.0     | Jan 6, 2025  |                    Initial version of project                     |
 |    v1.1     | Jan 17, 2025 |                 Minoring formatting/link updates                  |
 |    v1.2     | Jan 22, 2025 | Removed M3 turnitin submission; updated AI disclosure link for M3 |
+|    v1.3     | Mar 11, 2025 |            Fixed date/day mismatch for M2/M3 deadlines            |
 
 ## Structure
 
@@ -26,8 +27,8 @@ Between the milestones 1 and 2, each team will be required to do a check-in with
 | :------------------------------: | :--------------------: |
 |           Milestone 1            |     Friday, Feb 28     |
 | Milestone 1.5 - Project Check-in |      March 17-21       |
-|           Milestone 2            |    Monday, April 4     |
-|           Milestone 3            |    Friday, April 8     |
+|           Milestone 2            |    Friday, April 4     |
+|           Milestone 3            |    Tuesday, April 8     |
 
 ---
 
