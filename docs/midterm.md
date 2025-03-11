@@ -23,7 +23,7 @@
 
 ## Format
 
-The exam will include the following types of questions:
+The paper-based exam will include the following types of questions:
 
 - MCQ/TF questions 
 - Short answer questions
