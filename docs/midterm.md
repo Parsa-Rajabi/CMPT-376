@@ -3,7 +3,7 @@
 <br>
 
 ## Logistics
-- 📅 Date: Tuesday, March 24
+- 📅 Date: Tuesday, March 18
 - 📍 Where: SYRE 2002 (Note: this is a different room than our usual class)
   - Please wait outside the classroom until you are invited in
 - 🕐 Exam time: 8:35-10:05am (90 minutes) 
