@@ -31,7 +31,7 @@ The paper-based exam will include the following types of questions:
   
 ## Details
 
-- The exam is closed book, with the exception of one A34-sized, double-sided cheatsheet (must be handwritten, no typed cheatsheets allowed).
+- The exam is closed book, with the exception of one A4-sized, double-sided cheatsheet (must be handwritten, no typed cheatsheets allowed).
   - You can choose to use the cheatsheet or not. It is not mandatory.
   - The cheatsheet can include any hand drawn of graphics, notes, etc. that you think will help you during the exam.
   - The cheatsheet must be submitted with the exam. Make sure to write your full name and student number on it.
